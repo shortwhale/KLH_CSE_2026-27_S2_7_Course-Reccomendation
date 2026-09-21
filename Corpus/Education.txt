@@ -1,0 +1,124 @@
+CAREER RECOMMENDATION CORPUS
+
+This corpus contains education and teaching specializations for a career recommendation system.
+
+#########################
+CATEGORY: Education
+#########################
+
+
+==================================================
+Specialization: Elementary and Secondary Education
+
+Category:
+Education
+
+Description:
+Elementary and Secondary Education trains students to teach in schools, covering pedagogy, curriculum design, classroom management and child development.
+
+Interests:
+teaching, children, education, communication, curriculum, mentoring
+
+Preferred School Subjects:
+Any stream, with a chosen subject specialization such as Mathematics, Science or Languages.
+
+Skills Needed:
+Communication, Patience, Classroom Management, Lesson Planning, Empathy
+
+Prerequisites:
+A bachelor's degree in a relevant subject, followed by a teacher training qualification such as a B.Ed.
+
+Entrance Exams:
+University-specific entrance examinations for B.Ed programs; some states require teacher eligibility tests.
+
+Duration:
+Typically 2 years for a B.Ed program after completing a bachelor's degree.
+
+Career Options:
+School Teacher, Curriculum Developer, Academic Coordinator, Tutor
+
+Future Scope:
+Consistent demand across public and private schools, with growing opportunities in online and hybrid education.
+
+Why Recommended:
+Recommended for students who enjoy explaining concepts, working with children and want to shape young minds.
+
+==================================================
+
+
+==================================================
+Specialization: Educational Psychology
+
+Category:
+Education
+
+Description:
+Educational Psychology studies how people learn and develop, applying psychological principles to improve teaching methods, learning environments and student support systems.
+
+Interests:
+psychology, learning, education, child development, research, counseling
+
+Preferred School Subjects:
+Psychology and Biology where available.
+
+Skills Needed:
+Research, Communication, Empathy, Observation, Analytical Thinking
+
+Prerequisites:
+A bachelor's degree in Psychology or Education is often required for specialized programs.
+
+Entrance Exams:
+University-specific entrance examinations for postgraduate programs.
+
+Duration:
+Typically 3 years for a bachelor's degree, or 2 years for a master's program.
+
+Career Options:
+Educational Psychologist, School Counselor, Learning Specialist, Curriculum Consultant
+
+Future Scope:
+Growing demand as schools invest more in student well-being, learning support and inclusive education.
+
+Why Recommended:
+Recommended for students interested in how children learn and who want to support students facing learning or emotional challenges.
+
+==================================================
+
+
+==================================================
+Specialization: Special Education
+
+Category:
+Education
+
+Description:
+Special Education trains teachers to work with students who have learning disabilities, developmental delays or other special needs, using adapted teaching methods and individualized learning plans.
+
+Interests:
+teaching, children, disability support, education, patience, communication
+
+Preferred School Subjects:
+Any stream, with Psychology or Biology being helpful.
+
+Skills Needed:
+Patience, Communication, Adaptability, Individualized Planning, Empathy
+
+Prerequisites:
+A bachelor's degree followed by a specialized Special Education teacher training qualification.
+
+Entrance Exams:
+University-specific entrance examinations for teacher training programs.
+
+Duration:
+Typically 2 years for a specialized Special Education certification after a bachelor's degree.
+
+Career Options:
+Special Education Teacher, Learning Support Specialist, Inclusion Coordinator, Therapy Aide
+
+Future Scope:
+Rising demand as schools and institutions place greater emphasis on inclusive and accessible education.
+
+Why Recommended:
+Recommended for students who are especially patient, empathetic and want to support learners with diverse needs.
+
+==================================================

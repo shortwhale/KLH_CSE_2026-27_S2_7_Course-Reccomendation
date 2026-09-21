@@ -1,0 +1,124 @@
+CAREER RECOMMENDATION CORPUS
+
+This corpus contains sports and fitness specializations for a career recommendation system.
+
+#########################
+CATEGORY: Sports and Fitness
+#########################
+
+
+==================================================
+Specialization: Sports Science
+
+Category:
+Sports and Fitness
+
+Description:
+Sports Science studies the physiology, biomechanics and psychology of physical performance, applying scientific principles to improve athletic training, recovery and performance.
+
+Interests:
+sports, fitness, physiology, biomechanics, training, performance, anatomy
+
+Preferred School Subjects:
+Biology and Physical Education where available.
+
+Skills Needed:
+Anatomy Knowledge, Analytical Thinking, Communication, Observation, Fitness Assessment
+
+Prerequisites:
+10+2 qualification with Biology is often preferred.
+
+Entrance Exams:
+University-specific entrance examinations; some institutions admit based on merit.
+
+Duration:
+Typically 3 years for a bachelor's degree in Sports Science.
+
+Career Options:
+Sports Scientist, Performance Analyst, Strength and Conditioning Coach, Athletic Trainer
+
+Future Scope:
+Growing demand as professional sports, fitness industries and athlete performance analysis expand.
+
+Why Recommended:
+Recommended for students interested in how the body performs physically and who want to help athletes improve.
+
+==================================================
+
+
+==================================================
+Specialization: Physical Education
+
+Category:
+Sports and Fitness
+
+Description:
+Physical Education trains students to teach sports, fitness and wellness in schools and community settings, combining coaching skills with health education.
+
+Interests:
+sports, teaching, fitness, coaching, games, wellness, health
+
+Preferred School Subjects:
+Physical Education and Biology where available.
+
+Skills Needed:
+Coaching, Communication, Patience, Physical Fitness, Organization
+
+Prerequisites:
+10+2 qualification in any stream.
+
+Entrance Exams:
+University-specific entrance examinations or physical fitness tests.
+
+Duration:
+Typically 3 years for a bachelor's degree in Physical Education.
+
+Career Options:
+Physical Education Teacher, Sports Coach, Fitness Instructor, Recreation Officer
+
+Future Scope:
+Steady demand in schools, sports academies and community wellness programs.
+
+Why Recommended:
+Recommended for students who enjoy sports, working with others and encouraging healthy, active lifestyles.
+
+==================================================
+
+
+==================================================
+Specialization: Nutrition and Dietetics
+
+Category:
+Sports and Fitness
+
+Description:
+Nutrition and Dietetics focuses on the science of food and its effect on health, training students to design diet plans and advise individuals or athletes on nutrition.
+
+Interests:
+nutrition, health, food science, diet, wellness, biology, fitness
+
+Preferred School Subjects:
+Biology and Chemistry where available.
+
+Skills Needed:
+Nutritional Science Knowledge, Communication, Attention to Detail, Empathy
+
+Prerequisites:
+10+2 qualification with Biology is often preferred.
+
+Entrance Exams:
+University-specific entrance examinations; some institutions admit based on merit.
+
+Duration:
+Typically 3 years for a bachelor's degree in Nutrition and Dietetics.
+
+Career Options:
+Dietitian, Nutritionist, Sports Nutrition Consultant, Wellness Coach
+
+Future Scope:
+Rising demand due to increasing health awareness, sports nutrition and preventive healthcare.
+
+Why Recommended:
+Recommended for students interested in food, health and helping people make informed dietary choices.
+
+==================================================

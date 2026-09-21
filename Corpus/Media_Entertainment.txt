@@ -1,0 +1,163 @@
+CAREER RECOMMENDATION CORPUS
+
+This corpus contains media and entertainment specializations for a career recommendation system.
+
+#########################
+CATEGORY: Media and Entertainment
+#########################
+
+
+==================================================
+Specialization: Film Making
+
+Category:
+Media and Entertainment
+
+Description:
+Film Making covers the art and craft of producing films, including writing, directing, cinematography, editing and sound design, for cinema, television and streaming platforms.
+
+Interests:
+film, cinema, storytelling, directing, cinematography, editing, visual storytelling
+
+Preferred School Subjects:
+English, Art and Media Studies where available.
+
+Skills Needed:
+Storytelling, Visual Composition, Editing Software, Collaboration, Creativity
+
+Prerequisites:
+10+2 qualification in any stream; a portfolio or entrance test is often required.
+
+Entrance Exams:
+Institution-specific entrance examinations and portfolio reviews, such as those conducted by film institutes.
+
+Duration:
+Typically 3 years for a bachelor's degree in Film Making or a related program.
+
+Career Options:
+Film Director, Cinematographer, Film Editor, Screenwriter, Producer
+
+Future Scope:
+Growing opportunities driven by streaming platforms, regional cinema and independent film production.
+
+Why Recommended:
+Recommended for students passionate about storytelling through visuals and who enjoy the technical and creative sides of filmmaking.
+
+==================================================
+
+
+==================================================
+Specialization: Animation and VFX
+
+Category:
+Media and Entertainment
+
+Description:
+Animation and VFX focuses on creating moving images and visual effects for films, games and advertisements, combining artistic skill with technical software knowledge.
+
+Interests:
+animation, visual effects, 3d modeling, drawing, storytelling, software, design
+
+Preferred School Subjects:
+Art, Computer Science and Media Studies where available.
+
+Skills Needed:
+Drawing, 3D Software, Storyboarding, Attention to Detail, Creativity
+
+Prerequisites:
+10+2 qualification in any stream; a portfolio is often required.
+
+Entrance Exams:
+Institution-specific entrance examinations and portfolio submissions.
+
+Duration:
+Typically 3 to 4 years for a bachelor's degree or diploma program.
+
+Career Options:
+Animator, VFX Artist, 3D Modeler, Motion Graphics Designer, Game Artist
+
+Future Scope:
+Strong growth in gaming, film VFX, advertising and the expanding animation content industry.
+
+Why Recommended:
+Recommended for students who enjoy drawing, digital art and bringing characters and worlds to life visually.
+
+==================================================
+
+
+==================================================
+Specialization: Journalism and Mass Communication
+
+Category:
+Media and Entertainment
+
+Description:
+Journalism and Mass Communication trains students to research, write and report news and stories across print, broadcast and digital media, along with public relations and communication strategy.
+
+Interests:
+writing, media, journalism, communication, news, reporting, interviewing
+
+Preferred School Subjects:
+English, History and Political Science where available.
+
+Skills Needed:
+Writing, Research, Interviewing, Communication, Editing
+
+Prerequisites:
+10+2 qualification in any stream.
+
+Entrance Exams:
+University-specific entrance examinations; some institutions admit based on merit.
+
+Duration:
+Typically 3 years for a bachelor's degree in Journalism or Mass Communication.
+
+Career Options:
+Journalist, News Reporter, Content Writer, Editor, Public Relations Officer
+
+Future Scope:
+Evolving opportunities in digital media, podcasting, content creation and multimedia journalism.
+
+Why Recommended:
+Recommended for students who enjoy writing, asking questions and telling stories that inform the public.
+
+==================================================
+
+
+==================================================
+Specialization: Music Production
+
+Category:
+Media and Entertainment
+
+Description:
+Music Production covers composing, recording, mixing and mastering music using both traditional instruments and digital audio software, for albums, film scores and live performances.
+
+Interests:
+music, sound, composition, instruments, production, performance, audio software
+
+Preferred School Subjects:
+Music and Physics where available, for understanding sound.
+
+Skills Needed:
+Musical Ear, Audio Software, Creativity, Sound Mixing, Attention to Detail
+
+Prerequisites:
+10+2 qualification in any stream; musical background or audition may be required.
+
+Entrance Exams:
+Institution-specific auditions and entrance examinations.
+
+Duration:
+Typically 3 years for a bachelor's degree or shorter for diploma programs.
+
+Career Options:
+Music Producer, Sound Engineer, Composer, Audio Editor, Live Sound Technician
+
+Future Scope:
+Expanding opportunities with streaming platforms, independent music production and film and game scoring.
+
+Why Recommended:
+Recommended for students with a passion for music and sound who enjoy both the creative and technical sides of production.
+
+==================================================

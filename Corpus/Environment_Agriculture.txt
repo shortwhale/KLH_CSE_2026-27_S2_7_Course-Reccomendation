@@ -1,0 +1,124 @@
+CAREER RECOMMENDATION CORPUS
+
+This corpus contains environment and agriculture specializations for a career recommendation system.
+
+#########################
+CATEGORY: Environment and Agriculture
+#########################
+
+
+==================================================
+Specialization: Environmental Science
+
+Category:
+Environment and Agriculture
+
+Description:
+Environmental Science studies the interactions between physical, chemical and biological systems in the environment, covering topics like pollution, climate change, conservation and sustainability.
+
+Interests:
+environment, nature, climate, sustainability, ecology, research, conservation
+
+Preferred School Subjects:
+Biology, Chemistry and Geography where available.
+
+Skills Needed:
+Research, Data Analysis, Field Work, Report Writing, Analytical Thinking
+
+Prerequisites:
+10+2 qualification with Science subjects is often preferred.
+
+Entrance Exams:
+University-specific entrance examinations; some institutions admit based on merit.
+
+Duration:
+Typically 3 years for a bachelor's degree in Environmental Science.
+
+Career Options:
+Environmental Scientist, Conservation Officer, Sustainability Consultant, Environmental Analyst
+
+Future Scope:
+Growing demand driven by climate change concerns, sustainability initiatives and environmental regulation.
+
+Why Recommended:
+Recommended for students who care about nature and sustainability and want to work on solutions to environmental challenges.
+
+==================================================
+
+
+==================================================
+Specialization: Agricultural Science
+
+Category:
+Environment and Agriculture
+
+Description:
+Agricultural Science covers crop production, soil science, farming techniques and agricultural technology to improve food production and farm management.
+
+Interests:
+agriculture, farming, plants, soil, crops, biology, food production
+
+Preferred School Subjects:
+Biology and Chemistry where available.
+
+Skills Needed:
+Field Work, Biology Knowledge, Problem Solving, Data Analysis, Planning
+
+Prerequisites:
+10+2 qualification with Science subjects is often preferred.
+
+Entrance Exams:
+State-level and university-specific agricultural entrance examinations.
+
+Duration:
+Typically 4 years for a Bachelor of Science in Agriculture.
+
+Career Options:
+Agricultural Scientist, Farm Manager, Agronomist, Agricultural Extension Officer
+
+Future Scope:
+Steady demand as agriculture modernizes with technology, sustainable farming and food security needs.
+
+Why Recommended:
+Recommended for students interested in plants, farming and improving food production systems.
+
+==================================================
+
+
+==================================================
+Specialization: Marine Biology
+
+Category:
+Environment and Agriculture
+
+Description:
+Marine Biology studies ocean ecosystems, marine organisms and their interactions, applying biology and ecology to understand and conserve marine life.
+
+Interests:
+ocean, marine life, biology, ecology, conservation, research, wildlife
+
+Preferred School Subjects:
+Biology and Chemistry where available.
+
+Skills Needed:
+Field Research, Biology Knowledge, Data Analysis, Observation, Report Writing
+
+Prerequisites:
+10+2 qualification with Biology is often preferred.
+
+Entrance Exams:
+University-specific entrance examinations; some institutions admit based on merit.
+
+Duration:
+Typically 3 years for a bachelor's degree in Marine Biology.
+
+Career Options:
+Marine Biologist, Conservation Researcher, Aquarist, Fisheries Officer
+
+Future Scope:
+Opportunities in conservation organizations, research institutions and marine resource management.
+
+Why Recommended:
+Recommended for students fascinated by ocean life and interested in studying and protecting marine ecosystems.
+
+==================================================

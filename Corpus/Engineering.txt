@@ -1,0 +1,241 @@
+CAREER RECOMMENDATION CORPUS
+
+This corpus contains core engineering specializations for a career recommendation system.
+
+#########################
+CATEGORY: Engineering
+#########################
+
+
+==================================================
+Specialization: Mechanical Engineering
+
+Category:
+Engineering
+
+Description:
+Mechanical Engineering deals with the design, analysis, manufacturing and maintenance of mechanical systems. It covers thermodynamics, mechanics, materials science, manufacturing processes and machine design, forming the basis for careers across automotive, energy, manufacturing and aerospace industries.
+
+Interests:
+machines, mechanics, design, thermodynamics, manufacturing, engines, automobiles, problem solving
+
+Preferred School Subjects:
+Mathematics, Physics, and technical drawing where available.
+
+Skills Needed:
+Technical Drawing, Problem Solving, Mathematics, CAD Software, Analytical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification with Physics and Mathematics is commonly required for engineering programs.
+
+Entrance Exams:
+In India, common routes include JEE Main, JEE Advanced and state-level engineering entrance examinations.
+
+Duration:
+Typically 4 years for a Bachelor of Technology or Bachelor of Engineering program in India.
+
+Career Options:
+Mechanical Engineer, Design Engineer, Production Engineer, Maintenance Engineer, R&D Engineer
+
+Future Scope:
+Steady demand across manufacturing, automotive, energy and aerospace industries, with growing opportunities in electric vehicles and automation.
+
+Why Recommended:
+Recommended for students who enjoy building and understanding how machines work, hands-on design work and applied physics.
+
+==================================================
+
+
+==================================================
+Specialization: Civil Engineering
+
+Category:
+Engineering
+
+Description:
+Civil Engineering focuses on the design, construction and maintenance of infrastructure such as buildings, roads, bridges and water systems. Students study structural analysis, construction materials, surveying and urban planning.
+
+Interests:
+construction, buildings, structures, infrastructure, surveying, urban planning, design
+
+Preferred School Subjects:
+Mathematics, Physics, and Geography where available.
+
+Skills Needed:
+Structural Analysis, Project Planning, Technical Drawing, Mathematics, Attention to Detail
+
+Prerequisites:
+10+2 qualification with Physics and Mathematics is commonly required.
+
+Entrance Exams:
+JEE Main, JEE Advanced and state-level engineering entrance examinations in India.
+
+Duration:
+Typically 4 years for a Bachelor of Technology or Bachelor of Engineering program.
+
+Career Options:
+Civil Engineer, Structural Engineer, Site Engineer, Urban Planner, Construction Manager
+
+Future Scope:
+Consistent demand driven by infrastructure development, urbanization and public works projects.
+
+Why Recommended:
+Recommended for students interested in construction, infrastructure and shaping the physical environment around them.
+
+==================================================
+
+
+==================================================
+Specialization: Electrical Engineering
+
+Category:
+Engineering
+
+Description:
+Electrical Engineering covers the study of electricity, electronics and electromagnetism, applied to power generation, transmission, control systems and electrical machinery.
+
+Interests:
+electricity, circuits, power systems, electronics, control systems, energy, wiring
+
+Preferred School Subjects:
+Mathematics and Physics.
+
+Skills Needed:
+Circuit Analysis, Mathematics, Problem Solving, Programming basics, Attention to Detail
+
+Prerequisites:
+10+2 qualification with Physics and Mathematics is commonly required.
+
+Entrance Exams:
+JEE Main, JEE Advanced and state-level engineering entrance examinations in India.
+
+Duration:
+Typically 4 years for a Bachelor of Technology or Bachelor of Engineering program.
+
+Career Options:
+Electrical Engineer, Power Systems Engineer, Control Systems Engineer, Instrumentation Engineer
+
+Future Scope:
+Growing opportunities in renewable energy, smart grids, power electronics and industrial automation.
+
+Why Recommended:
+Recommended for students curious about how electricity and power systems work and who enjoy circuit-level problem solving.
+
+==================================================
+
+
+==================================================
+Specialization: Chemical Engineering
+
+Category:
+Engineering
+
+Description:
+Chemical Engineering applies chemistry, physics and mathematics to design and operate processes that convert raw materials into useful products, spanning petrochemicals, pharmaceuticals and materials manufacturing.
+
+Interests:
+chemistry, processes, materials, reactions, manufacturing, industrial plants, laboratory work
+
+Preferred School Subjects:
+Chemistry, Mathematics and Physics.
+
+Skills Needed:
+Process Design, Chemistry, Mathematics, Analytical Thinking, Safety Awareness
+
+Prerequisites:
+10+2 qualification with Chemistry, Physics and Mathematics is commonly required.
+
+Entrance Exams:
+JEE Main, JEE Advanced and state-level engineering entrance examinations in India.
+
+Duration:
+Typically 4 years for a Bachelor of Technology or Bachelor of Engineering program.
+
+Career Options:
+Chemical Engineer, Process Engineer, Plant Engineer, Quality Control Engineer
+
+Future Scope:
+Opportunities in petrochemicals, pharmaceuticals, materials science and increasingly in sustainable and green chemistry processes.
+
+Why Recommended:
+Recommended for students who enjoy chemistry and are interested in how industrial processes and materials are engineered at scale.
+
+==================================================
+
+
+==================================================
+Specialization: Aerospace Engineering
+
+Category:
+Engineering
+
+Description:
+Aerospace Engineering focuses on the design, development and testing of aircraft and spacecraft, covering aerodynamics, propulsion, structures and avionics.
+
+Interests:
+aircraft, spacecraft, aerodynamics, propulsion, flight, avionics, space
+
+Preferred School Subjects:
+Mathematics and Physics.
+
+Skills Needed:
+Mathematics, Physics, CAD Software, Analytical Thinking, Attention to Detail
+
+Prerequisites:
+10+2 qualification with Physics and Mathematics is commonly required.
+
+Entrance Exams:
+JEE Main, JEE Advanced and institution-specific aerospace entrance examinations.
+
+Duration:
+Typically 4 years for a Bachelor of Technology or Bachelor of Engineering program.
+
+Career Options:
+Aerospace Engineer, Avionics Engineer, Flight Test Engineer, Propulsion Engineer
+
+Future Scope:
+Expanding opportunities in commercial aviation, defense and the growing private space exploration sector.
+
+Why Recommended:
+Recommended for students fascinated by flight, space exploration and complex engineering systems.
+
+==================================================
+
+
+==================================================
+Specialization: Industrial and Production Engineering
+
+Category:
+Engineering
+
+Description:
+Industrial and Production Engineering focuses on optimizing complex processes, systems and organizations, combining engineering principles with management to improve efficiency in manufacturing and production.
+
+Interests:
+manufacturing, production, quality control, optimization, supply chain, automation, efficiency
+
+Preferred School Subjects:
+Mathematics and Physics.
+
+Skills Needed:
+Process Optimization, Mathematics, Statistics, Project Management, Problem Solving
+
+Prerequisites:
+10+2 qualification with Physics and Mathematics is commonly required.
+
+Entrance Exams:
+JEE Main, JEE Advanced and state-level engineering entrance examinations.
+
+Duration:
+Typically 4 years for a Bachelor of Technology or Bachelor of Engineering program.
+
+Career Options:
+Production Engineer, Industrial Engineer, Quality Manager, Operations Engineer
+
+Future Scope:
+Important role in manufacturing efficiency, automation and lean production as industries modernize.
+
+Why Recommended:
+Recommended for students who like optimizing systems and processes and are interested in the intersection of engineering and management.
+
+==================================================
