@@ -1,0 +1,124 @@
+CAREER RECOMMENDATION CORPUS
+
+This corpus contains geology and earth science specializations for a career recommendation system.
+
+#########################
+CATEGORY: Geology and Earth Science
+#########################
+
+
+==================================================
+Specialization: Geology
+
+Category:
+Geology and Earth Science
+
+Description:
+Geology studies the structure, composition and processes of the Earth, including rocks, minerals, earthquakes and natural resource formation.
+
+Interests:
+geology, earth science, rocks, minerals, research, field work, nature
+
+Preferred School Subjects:
+Geography, Physics and Chemistry.
+
+Skills Needed:
+Field Research, Analytical Thinking, Observation, Data Analysis, Report Writing
+
+Prerequisites:
+10+2 qualification with Science subjects is often preferred.
+
+Entrance Exams:
+University-specific entrance examinations; some institutions admit based on merit.
+
+Duration:
+Typically 3 years for a bachelor's degree in Geology.
+
+Career Options:
+Geologist, Mining Geologist, Environmental Geologist, Hydrogeologist
+
+Future Scope:
+Opportunities in mining, natural resource exploration, environmental consulting and disaster risk assessment.
+
+Why Recommended:
+Recommended for students curious about the Earth's structure and history who enjoy field research and outdoor work.
+
+==================================================
+
+
+==================================================
+Specialization: Geophysics
+
+Category:
+Geology and Earth Science
+
+Description:
+Geophysics applies physics and mathematics to study the Earth's interior, using seismic, magnetic and gravitational data to understand geological structures and detect natural resources.
+
+Interests:
+geophysics, physics, earth science, research, data analysis, mathematics
+
+Preferred School Subjects:
+Physics and Mathematics.
+
+Skills Needed:
+Physics Knowledge, Mathematics, Data Analysis, Research, Technical Software
+
+Prerequisites:
+10+2 qualification with Physics and Mathematics is required.
+
+Entrance Exams:
+University-specific entrance examinations; some institutions admit based on merit or national science aptitude tests.
+
+Duration:
+Typically 3 years for a bachelor's degree in Geophysics.
+
+Career Options:
+Geophysicist, Seismologist, Exploration Geophysicist, Research Scientist
+
+Future Scope:
+Opportunities in oil and gas exploration, earthquake research, mining and environmental monitoring.
+
+Why Recommended:
+Recommended for students who enjoy physics and want to apply it to understanding the structure of the Earth.
+
+==================================================
+
+
+==================================================
+Specialization: Mining Engineering
+
+Category:
+Geology and Earth Science
+
+Description:
+Mining Engineering covers the extraction of minerals and natural resources from the earth, including mine planning, safety systems and resource management.
+
+Interests:
+mining, engineering, resources, geology, machinery, safety
+
+Preferred School Subjects:
+Mathematics and Physics.
+
+Skills Needed:
+Engineering Fundamentals, Safety Management, Problem Solving, Technical Knowledge, Planning
+
+Prerequisites:
+10+2 qualification with Physics and Mathematics is commonly required.
+
+Entrance Exams:
+JEE Main, JEE Advanced and state-level engineering entrance examinations in India.
+
+Duration:
+Typically 4 years for a Bachelor of Technology or Bachelor of Engineering in Mining Engineering.
+
+Career Options:
+Mining Engineer, Mine Safety Officer, Resource Planning Engineer, Mineral Processing Engineer
+
+Future Scope:
+Steady demand tied to mineral resource extraction, though increasingly balanced with sustainability and safety regulations.
+
+Why Recommended:
+Recommended for students interested in engineering applied to natural resource extraction and mine safety systems.
+
+==================================================
