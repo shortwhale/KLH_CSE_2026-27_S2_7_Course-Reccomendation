@@ -1,0 +1,124 @@
+CAREER RECOMMENDATION CORPUS
+
+This corpus contains performing arts specializations for a career recommendation system.
+
+#########################
+CATEGORY: Performing Arts
+#########################
+
+
+==================================================
+Specialization: Theatre and Drama
+
+Category:
+Performing Arts
+
+Description:
+Theatre and Drama trains students in acting, stagecraft, direction and playwriting, developing performance skills for stage, film and television.
+
+Interests:
+acting, theatre, performance, drama, storytelling, creativity
+
+Preferred School Subjects:
+English and Art where available.
+
+Skills Needed:
+Acting, Voice Projection, Memorization, Collaboration, Creativity
+
+Prerequisites:
+10+2 qualification in any stream; auditions are often required.
+
+Entrance Exams:
+Institution-specific auditions and entrance examinations.
+
+Duration:
+Typically 3 years for a bachelor's degree in Theatre Arts.
+
+Career Options:
+Actor, Theatre Director, Playwright, Drama Teacher, Voice Artist
+
+Future Scope:
+Opportunities across stage theatre, television, film and the growing content and streaming industry.
+
+Why Recommended:
+Recommended for students who love performing, storytelling and expressing themselves through character and voice.
+
+==================================================
+
+
+==================================================
+Specialization: Dance
+
+Category:
+Performing Arts
+
+Description:
+Dance trains students in classical, contemporary or folk dance forms, covering technique, choreography and performance for stage and screen.
+
+Interests:
+dance, movement, performance, music, choreography, creativity
+
+Preferred School Subjects:
+Physical Education and Art where available.
+
+Skills Needed:
+Physical Fitness, Rhythm, Discipline, Creativity, Collaboration
+
+Prerequisites:
+10+2 qualification in any stream; prior dance training or audition is often required.
+
+Entrance Exams:
+Institution-specific auditions and entrance examinations.
+
+Duration:
+Typically 3 years for a bachelor's degree in Dance.
+
+Career Options:
+Professional Dancer, Choreographer, Dance Instructor, Dance Therapist
+
+Future Scope:
+Opportunities in performance troupes, film and television choreography, and dance education.
+
+Why Recommended:
+Recommended for students with a strong passion for movement, music and expressive physical performance.
+
+==================================================
+
+
+==================================================
+Specialization: Fine Arts (Painting and Sculpture)
+
+Category:
+Performing Arts
+
+Description:
+Fine Arts trains students in visual art forms such as painting, sculpture and printmaking, developing technical skill and personal artistic expression.
+
+Interests:
+art, painting, sculpture, creativity, drawing, visual expression
+
+Preferred School Subjects:
+Art where available.
+
+Skills Needed:
+Drawing, Painting Techniques, Creativity, Attention to Detail, Patience
+
+Prerequisites:
+10+2 qualification in any stream; a portfolio is often required.
+
+Entrance Exams:
+Institution-specific entrance examinations and portfolio reviews.
+
+Duration:
+Typically 3 to 4 years for a Bachelor of Fine Arts program.
+
+Career Options:
+Artist, Illustrator, Art Teacher, Gallery Curator, Muralist
+
+Future Scope:
+Opportunities in galleries, public art projects, illustration and the growing digital and NFT art markets.
+
+Why Recommended:
+Recommended for students with a strong visual imagination who want to express ideas through painting, sculpture and drawing.
+
+==================================================
