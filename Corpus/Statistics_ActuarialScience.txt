@@ -1,0 +1,124 @@
+CAREER RECOMMENDATION CORPUS
+
+This corpus contains statistics and actuarial science specializations for a career recommendation system.
+
+#########################
+CATEGORY: Statistics and Actuarial Science
+#########################
+
+
+==================================================
+Specialization: Statistics
+
+Category:
+Statistics and Actuarial Science
+
+Description:
+Statistics covers the collection, analysis and interpretation of data, providing tools used across research, business, government and science to make evidence-based decisions.
+
+Interests:
+statistics, mathematics, data, research, analysis, probability
+
+Preferred School Subjects:
+Mathematics.
+
+Skills Needed:
+Mathematics, Data Analysis, Statistical Software, Analytical Thinking, Attention to Detail
+
+Prerequisites:
+10+2 qualification with Mathematics is required.
+
+Entrance Exams:
+University-specific entrance examinations; some institutions admit based on merit or national aptitude tests.
+
+Duration:
+Typically 3 years for a bachelor's degree in Statistics.
+
+Career Options:
+Statistician, Data Analyst, Research Analyst, Biostatistician
+
+Future Scope:
+Growing demand across data-driven industries including finance, healthcare, government and technology.
+
+Why Recommended:
+Recommended for students who enjoy mathematics and want to use data to uncover patterns and inform decisions.
+
+==================================================
+
+
+==================================================
+Specialization: Actuarial Science
+
+Category:
+Statistics and Actuarial Science
+
+Description:
+Actuarial Science applies mathematics, statistics and financial theory to assess risk, primarily for insurance and pension industries, through a rigorous series of professional examinations.
+
+Interests:
+mathematics, statistics, finance, risk assessment, probability, problem solving
+
+Preferred School Subjects:
+Mathematics.
+
+Skills Needed:
+Advanced Mathematics, Statistical Analysis, Financial Knowledge, Problem Solving, Precision
+
+Prerequisites:
+10+2 qualification with Mathematics is required; strong quantitative aptitude is essential.
+
+Entrance Exams:
+Professional actuarial examinations conducted by bodies such as the Institute of Actuaries; some universities have entrance tests for related degree programs.
+
+Duration:
+Typically 3 years for a related bachelor's degree, alongside professional actuarial exams that can take several more years to complete.
+
+Career Options:
+Actuary, Risk Analyst, Insurance Underwriter, Pension Consultant
+
+Future Scope:
+Strong and stable demand in insurance, pension funds and financial risk management, with high earning potential.
+
+Why Recommended:
+Recommended for students who excel at mathematics and enjoy precise, analytical problem solving related to risk and finance.
+
+==================================================
+
+
+==================================================
+Specialization: Applied Mathematics
+
+Category:
+Statistics and Actuarial Science
+
+Description:
+Applied Mathematics focuses on using mathematical methods and models to solve real-world problems across engineering, finance, computer science and the natural sciences.
+
+Interests:
+mathematics, problem solving, modeling, logic, research, computation
+
+Preferred School Subjects:
+Mathematics and Physics.
+
+Skills Needed:
+Advanced Mathematics, Logical Reasoning, Modeling, Programming Basics, Analytical Thinking
+
+Prerequisites:
+10+2 qualification with Mathematics is required.
+
+Entrance Exams:
+University-specific entrance examinations; some institutions admit based on merit or national aptitude tests.
+
+Duration:
+Typically 3 years for a bachelor's degree in Applied Mathematics.
+
+Career Options:
+Mathematical Analyst, Quantitative Researcher, Operations Research Analyst, Data Scientist
+
+Future Scope:
+Growing opportunities in quantitative finance, data science, research and technology-driven industries.
+
+Why Recommended:
+Recommended for students who love mathematics for its own sake and enjoy applying it to solve varied real-world problems.
+
+==================================================
