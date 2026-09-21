@@ -1,0 +1,124 @@
+CAREER RECOMMENDATION CORPUS
+
+This corpus contains aviation and maritime specializations for a career recommendation system.
+
+#########################
+CATEGORY: Aviation and Maritime
+#########################
+
+
+==================================================
+Specialization: Aeronautical Studies and Pilot Training
+
+Category:
+Aviation and Maritime
+
+Description:
+Aeronautical Studies and Pilot Training prepares students to operate aircraft, covering flight theory, navigation, meteorology and aviation regulations, leading toward a commercial pilot license.
+
+Interests:
+flying, aircraft, navigation, aviation, discipline, technology, travel
+
+Preferred School Subjects:
+Mathematics and Physics.
+
+Skills Needed:
+Quick Decision Making, Discipline, Spatial Awareness, Communication, Physical Fitness
+
+Prerequisites:
+10+2 qualification with Physics and Mathematics; medical fitness certification is required.
+
+Entrance Exams:
+DGCA examinations and institution-specific pilot training entrance assessments in India.
+
+Duration:
+Typically 1.5 to 2 years for a Commercial Pilot License program.
+
+Career Options:
+Commercial Pilot, Flight Instructor, Airline First Officer, Charter Pilot
+
+Future Scope:
+Long-term demand as air travel volumes grow, though entry requires significant training investment.
+
+Why Recommended:
+Recommended for students who dream of flying, enjoy precision and discipline, and are drawn to aviation technology.
+
+==================================================
+
+
+==================================================
+Specialization: Air Traffic Control
+
+Category:
+Aviation and Maritime
+
+Description:
+Air Traffic Control trains students to safely manage aircraft movement in the sky and on the ground, using radar systems, communication protocols and coordination procedures.
+
+Interests:
+aviation, coordination, communication, focus, technology, safety
+
+Preferred School Subjects:
+Mathematics and Physics.
+
+Skills Needed:
+Concentration, Quick Decision Making, Communication, Spatial Awareness, Composure Under Pressure
+
+Prerequisites:
+10+2 qualification with Physics and Mathematics; specific institution requirements apply.
+
+Entrance Exams:
+Institution-specific entrance examinations conducted by aviation authorities or training academies.
+
+Duration:
+Typically 1 to 2 years for specialized air traffic control training and certification.
+
+Career Options:
+Air Traffic Controller, Aerodrome Control Officer, Approach Control Officer
+
+Future Scope:
+Steady demand tied to growth in air traffic and expansion of airport infrastructure.
+
+Why Recommended:
+Recommended for students who stay calm under pressure, focus well and are interested in aviation safety systems.
+
+==================================================
+
+
+==================================================
+Specialization: Marine Engineering and Merchant Navy
+
+Category:
+Aviation and Maritime
+
+Description:
+Marine Engineering and Merchant Navy trains students to operate and maintain ships, covering marine machinery, navigation and maritime operations for cargo and passenger vessels.
+
+Interests:
+ships, engineering, navigation, sea, machinery, travel, discipline
+
+Preferred School Subjects:
+Mathematics and Physics.
+
+Skills Needed:
+Technical Aptitude, Discipline, Problem Solving, Physical Fitness, Teamwork
+
+Prerequisites:
+10+2 qualification with Physics, Chemistry and Mathematics; medical fitness certification is required.
+
+Entrance Exams:
+IMU CET and institution-specific maritime entrance examinations in India.
+
+Duration:
+Typically 4 years for a Bachelor of Marine Engineering, including sea-time training.
+
+Career Options:
+Marine Engineer, Merchant Navy Officer, Ship Captain, Port Operations Manager
+
+Future Scope:
+Consistent global demand tied to international shipping and maritime trade.
+
+Why Recommended:
+Recommended for students who enjoy engineering, travel and are drawn to life and work at sea.
+
+==================================================
