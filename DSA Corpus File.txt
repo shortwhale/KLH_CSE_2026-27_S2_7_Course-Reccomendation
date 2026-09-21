@@ -1,0 +1,119 @@
+Specialization: Artificial Intelligence and Machine Learning
+Category: Computer Science
+Interests: artificial intelligence, machine learning, deep learning, neural networks, data science, python, automation
+Career Options: Machine Learning Engineer, AI Engineer, Data Scientist, Research Scientist
+Future Scope: High demand in automation, healthcare, robotics, generative AI, and intelligent systems.
+
+Specialization: Data Science
+Category: Computer Science
+Interests: data analysis, statistics, python, machine learning, visualization, big data, analytics
+Career Options: Data Scientist, Data Analyst, Business Analyst, Data Engineer
+Future Scope: Strong opportunities in business analytics, finance, healthcare, and artificial intelligence.
+
+Specialization: Cyber Security
+Category: Computer Science
+Interests: hacking, security, networks, ethical hacking, cryptography, cybersecurity, penetration testing
+Career Options: Cyber Security Analyst, Ethical Hacker, Security Engineer, Penetration Tester
+Future Scope: Growing demand due to increasing cyber attacks and the need for digital security.
+
+Specialization: Software Development
+Category: Computer Science
+Interests: programming, coding, java, python, software development, applications, problem solving
+Career Options: Software Developer, Full Stack Developer, Backend Developer, Application Developer
+Future Scope: Excellent opportunities in software companies, startups, cloud platforms, and technology industries.
+
+Specialization: Web Development
+Category: Computer Science
+Interests: web development, websites, html, css, javascript, frontend, backend, react
+Career Options: Web Developer, Frontend Developer, Backend Developer, Full Stack Developer
+Future Scope: High demand because businesses require modern websites and web applications.
+
+Specialization: Mobile App Development
+Category: Computer Science
+Interests: mobile apps, android, ios, kotlin, java, flutter, react native
+Career Options: Android Developer, iOS Developer, Mobile Application Developer
+Future Scope: Strong growth due to increasing smartphone usage and mobile-based services.
+
+Specialization: Cloud Computing
+Category: Computer Science
+Interests: cloud, aws, azure, servers, virtualization, cloud computing, devops
+Career Options: Cloud Engineer, Cloud Architect, DevOps Engineer, System Administrator
+Future Scope: Increasing demand as companies migrate infrastructure and applications to cloud platforms.
+
+Specialization: DevOps Engineering
+Category: Computer Science
+Interests: devops, automation, cloud, linux, docker, kubernetes, deployment
+Career Options: DevOps Engineer, Site Reliability Engineer, Cloud Engineer
+Future Scope: Important for modern software development, continuous integration, and cloud infrastructure.
+
+Specialization: Blockchain Technology
+Category: Computer Science
+Interests: blockchain, cryptocurrency, decentralized systems, smart contracts, ethereum, web3
+Career Options: Blockchain Developer, Smart Contract Developer, Blockchain Engineer
+Future Scope: Potential growth in finance, supply chain, digital identity, and decentralized applications.
+
+Specialization: Internet of Things
+Category: Computer Science
+Interests: iot, sensors, arduino, raspberry pi, embedded systems, smart devices, automation
+Career Options: IoT Developer, Embedded Systems Engineer, Automation Engineer
+Future Scope: Growing applications in smart homes, healthcare, agriculture, and industrial automation.
+
+Specialization: Robotics
+Category: Computer Science
+Interests: robotics, automation, sensors, artificial intelligence, embedded systems, mechanical systems
+Career Options: Robotics Engineer, Automation Engineer, AI Engineer
+Future Scope: Expanding opportunities in manufacturing, healthcare, space exploration, and autonomous systems.
+
+Specialization: Game Development
+Category: Computer Science
+Interests: games, gaming, unity, unreal engine, graphics, animation, programming
+Career Options: Game Developer, Game Designer, Graphics Programmer, Technical Artist
+Future Scope: Growth in gaming, virtual reality, augmented reality, and interactive entertainment.
+
+Specialization: Computer Networks
+Category: Computer Science
+Interests: networking, routers, switches, protocols, communication, network security
+Career Options: Network Engineer, Network Administrator, Systems Engineer
+Future Scope: Continued demand in telecommunications, cloud infrastructure, and enterprise networking.
+
+Specialization: Database Management
+Category: Computer Science
+Interests: databases, sql, mysql, data storage, database design, oracle, data management
+Career Options: Database Administrator, Database Developer, Data Engineer
+Future Scope: Important for organizations handling large amounts of structured and unstructured data.
+
+Specialization: UI and UX Design
+Category: Computer Science
+Interests: design, user interface, user experience, figma, creativity, prototyping, graphics
+Career Options: UI Designer, UX Designer, Product Designer
+Future Scope: Increasing importance as companies focus on improving digital products and user experiences.
+
+Specialization: Computer Graphics
+Category: Computer Science
+Interests: graphics, animation, 3d modeling, visualization, rendering, gaming
+Career Options: Graphics Programmer, 3D Artist, Animation Developer
+Future Scope: Opportunities in gaming, movies, virtual reality, augmented reality, and simulations.
+
+Specialization: Data Engineering
+Category: Computer Science
+Interests: big data, databases, data pipelines, python, sql, cloud, data processing
+Career Options: Data Engineer, Big Data Engineer, Database Engineer
+Future Scope: High demand as organizations collect and process increasingly large volumes of data.
+
+Specialization: Natural Language Processing
+Category: Computer Science
+Interests: language, artificial intelligence, machine learning, chatbots, text processing, generative ai
+Career Options: NLP Engineer, AI Engineer, Machine Learning Engineer
+Future Scope: Rapid growth in chatbots, translation systems, virtual assistants, and generative AI.
+
+Specialization: Computer Vision
+Category: Computer Science
+Interests: images, video, artificial intelligence, machine learning, deep learning, object detection
+Career Options: Computer Vision Engineer, AI Engineer, Research Scientist
+Future Scope: Growing applications in autonomous vehicles, healthcare, surveillance, and robotics.
+
+Specialization: Embedded Systems
+Category: Computer Science
+Interests: embedded systems, microcontrollers, arduino, electronics, hardware, programming, sensors
+Career Options: Embedded Systems Engineer, Firmware Developer, IoT Engineer
+Future Scope: Strong demand in automotive systems, consumer electronics, robotics, and smart devices.
