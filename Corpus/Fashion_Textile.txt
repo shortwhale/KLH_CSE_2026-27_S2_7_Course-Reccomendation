@@ -1,0 +1,124 @@
+CAREER RECOMMENDATION CORPUS
+
+This corpus contains fashion and textile specializations for a career recommendation system.
+
+#########################
+CATEGORY: Fashion and Textile
+#########################
+
+
+==================================================
+Specialization: Fashion Design
+
+Category:
+Fashion and Textile
+
+Description:
+Fashion Design trains students to conceptualize, sketch and create clothing and accessories, covering design principles, garment construction and fashion trends.
+
+Interests:
+fashion, design, creativity, sketching, clothing, trends, sewing
+
+Preferred School Subjects:
+Art and Home Science where available.
+
+Skills Needed:
+Sketching, Creativity, Sewing Techniques, Trend Awareness, Attention to Detail
+
+Prerequisites:
+10+2 qualification in any stream; a portfolio or design aptitude test is often required.
+
+Entrance Exams:
+NIFT entrance exam and institution-specific design entrance examinations in India.
+
+Duration:
+Typically 3 to 4 years for a bachelor's degree in Fashion Design.
+
+Career Options:
+Fashion Designer, Costume Designer, Stylist, Fashion Illustrator
+
+Future Scope:
+Growing opportunities in fashion houses, e-commerce brands and sustainable fashion movements.
+
+Why Recommended:
+Recommended for students with a creative eye for style, clothing and self-expression through design.
+
+==================================================
+
+
+==================================================
+Specialization: Textile Design
+
+Category:
+Fashion and Textile
+
+Description:
+Textile Design focuses on creating patterns, prints and fabric structures used in clothing and home furnishings, blending art with material science.
+
+Interests:
+textiles, design, patterns, fabric, creativity, weaving, art
+
+Preferred School Subjects:
+Art and Chemistry where available.
+
+Skills Needed:
+Pattern Design, Creativity, Material Knowledge, Attention to Detail, Software Skills
+
+Prerequisites:
+10+2 qualification in any stream; a portfolio or design aptitude test is often required.
+
+Entrance Exams:
+NIFT entrance exam and institution-specific design entrance examinations in India.
+
+Duration:
+Typically 3 to 4 years for a bachelor's degree in Textile Design.
+
+Career Options:
+Textile Designer, Print Designer, Fabric Merchandiser, Surface Design Specialist
+
+Future Scope:
+Steady demand in textile manufacturing, fashion brands and interior furnishing industries.
+
+Why Recommended:
+Recommended for students interested in patterns, fabric and the creative and technical sides of textile making.
+
+==================================================
+
+
+==================================================
+Specialization: Fashion Merchandising and Retail Management
+
+Category:
+Fashion and Textile
+
+Description:
+Fashion Merchandising and Retail Management covers the business side of fashion, including buying, retail strategy, brand management and supply chain for clothing and accessories.
+
+Interests:
+fashion, business, retail, trends, marketing, planning, merchandising
+
+Preferred School Subjects:
+Any stream; Business Studies and Economics where available.
+
+Skills Needed:
+Market Analysis, Communication, Trend Forecasting, Negotiation, Planning
+
+Prerequisites:
+10+2 qualification in any stream.
+
+Entrance Exams:
+NIFT entrance exam and university-specific management entrance examinations.
+
+Duration:
+Typically 3 to 4 years for a bachelor's degree in Fashion Merchandising or a related field.
+
+Career Options:
+Fashion Buyer, Retail Manager, Brand Manager, Merchandising Planner
+
+Future Scope:
+Opportunities expanding with e-commerce fashion retail and global fashion brand operations.
+
+Why Recommended:
+Recommended for students who love fashion and are also interested in the business and retail strategy behind it.
+
+==================================================
