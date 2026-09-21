@@ -1,0 +1,280 @@
+CAREER RECOMMENDATION CORPUS
+
+This corpus contains technology and computing specializations for a career recommendation system.
+
+#########################
+CATEGORY: Technology
+#########################
+
+
+==================================================
+Specialization: Computer Science Engineering
+
+Category:
+Technology
+
+Description:
+Computer Science Engineering is a broad computing discipline that combines computer science principles with engineering practices. It covers programming, algorithms, data structures, computer architecture, operating systems, databases, software engineering, networking and related areas. It provides a strong foundation for careers in software development, computing systems and technology.
+
+Interests:
+coding, programming, algorithms, mathematics, computers, logic, software, problem solving, technology
+
+Preferred School Subjects:
+Mathematics, Physics, Computer Science or Informatics where available.
+
+Skills Needed:
+Programming, Problem Solving, Logical Thinking, Data Structures, Algorithms, Communication, Teamwork, Critical Thinking
+
+Prerequisites:
+10+2 qualification. Mathematics is commonly required for engineering programs, although exact requirements vary by institution and country.
+
+Entrance Exams:
+Depends on country and institution. In India, common engineering admission routes include JEE Main, JEE Advanced, state-level engineering entrance examinations and university-specific examinations.
+
+Duration:
+Typically 4 years for a Bachelor of Technology or Bachelor of Engineering program in India.
+
+Career Options:
+Software Engineer, Backend Developer, Frontend Developer, Full Stack Developer, Systems Engineer, Software Developer, Database Developer, DevOps Engineer
+
+Future Scope:
+Excellent. Computing skills are applicable across software, finance, healthcare, education, manufacturing, entertainment, government and many other industries. Career opportunities evolve with areas such as cloud computing, artificial intelligence, cybersecurity and distributed systems.
+
+Why Recommended:
+Recommended for students who enjoy programming, computers, algorithms, mathematics and logical problem solving and who want a broad foundation that can lead to many technology careers.
+
+==================================================
+
+
+==================================================
+Specialization: Artificial Intelligence and Machine Learning
+
+Category:
+Technology
+
+Description:
+Artificial Intelligence and Machine Learning focuses on developing systems that can learn from data, identify patterns, make predictions and support decision-making. The field combines computer science, mathematics, statistics and domain knowledge. Students typically study programming, machine learning algorithms, data processing, neural networks, optimization and artificial intelligence techniques.
+
+Interests:
+artificial intelligence, ai, machine learning, ml, python, mathematics, statistics, robotics, data, neural networks, automation
+
+Preferred School Subjects:
+Mathematics, Physics, Computer Science, Statistics where available.
+
+Skills Needed:
+Python Programming, Mathematics, Statistics, Linear Algebra, Probability, Problem Solving, Data Analysis, Critical Thinking
+
+Prerequisites:
+10+2 qualification. Mathematics is commonly required for technical undergraduate programs. Specific requirements depend on the institution.
+
+Entrance Exams:
+JEE Main, JEE Advanced, state-level engineering entrance examinations or university-specific admission processes, depending on the institution.
+
+Duration:
+Typically 4 years for an undergraduate engineering program. Specialized postgraduate study may require an additional 1-2 years or more.
+
+Career Options:
+Machine Learning Engineer, AI Engineer, Data Scientist, AI Software Developer, Computer Vision Engineer, NLP Engineer, Robotics Engineer, Research Assistant
+
+Future Scope:
+Excellent. AI and machine learning are being applied to healthcare, finance, manufacturing, transportation, education, cybersecurity and scientific research. The field requires continuous learning because algorithms, tools and computing platforms evolve rapidly.
+
+Why Recommended:
+Recommended for students interested in artificial intelligence, mathematics, statistics, programming, automation, pattern recognition and building intelligent systems.
+
+==================================================
+
+
+==================================================
+Specialization: Data Science
+
+Category:
+Technology
+
+Description:
+Data Science combines statistics, programming, mathematics and domain knowledge to extract useful information from data. Students learn how to collect, clean, analyze, visualize and interpret data and may also study machine learning for prediction and classification. The discipline is useful for organizations that rely on data to understand trends and make decisions.
+
+Interests:
+data, analytics, statistics, python, mathematics, visualization, databases, patterns, research, problem solving
+
+Preferred School Subjects:
+Mathematics, Statistics, Computer Science, Economics where available.
+
+Skills Needed:
+Statistics, Python, SQL, Data Analysis, Data Visualization, Probability, Critical Thinking, Communication, Problem Solving
+
+Prerequisites:
+10+2 qualification. Mathematics or statistics may be required depending on the degree and institution.
+
+Entrance Exams:
+Institution-specific admission requirements, university entrance examinations, JEE or other applicable admission routes depending on the program.
+
+Duration:
+Typically 3-4 years for an undergraduate degree, depending on the program structure.
+
+Career Options:
+Data Scientist, Data Analyst, Business Intelligence Analyst, Data Engineer, Analytics Consultant, Machine Learning Analyst, Research Analyst
+
+Future Scope:
+Excellent. Data-driven decision making is important in technology, finance, healthcare, retail, marketing, manufacturing and scientific research. Professionals increasingly need skills in data engineering, visualization, statistics and machine learning.
+
+Why Recommended:
+Recommended for students who enjoy mathematics, statistics, programming, finding patterns in information, analyzing datasets and using evidence to solve problems.
+
+==================================================
+
+
+==================================================
+Specialization: Cyber Security
+
+Category:
+Technology
+
+Description:
+Cyber Security focuses on protecting computers, networks, applications, devices and information from unauthorized access, misuse, disruption and other security threats. Students learn about networking, operating systems, cryptography, secure programming, security testing, risk management and incident response.
+
+Interests:
+cybersecurity, security, computers, networking, hacking, ethical hacking, cryptography, privacy, digital forensics, technology
+
+Preferred School Subjects:
+Mathematics, Computer Science, Physics and related technical subjects.
+
+Skills Needed:
+Networking, Programming, Linux, Problem Solving, Critical Thinking, Security Analysis, Communication, Attention to Detail
+
+Prerequisites:
+10+2 qualification. Technical programs commonly require Mathematics and may have additional institution-specific requirements.
+
+Entrance Exams:
+JEE Main, state engineering entrance examinations, university-specific examinations or other applicable admission routes.
+
+Duration:
+Typically 3-4 years for an undergraduate degree.
+
+Career Options:
+Cyber Security Analyst, Security Engineer, Security Consultant, Penetration Tester, Security Operations Analyst, Digital Forensics Analyst, Incident Response Analyst
+
+Future Scope:
+Excellent. As organizations increasingly depend on connected systems and digital infrastructure, cybersecurity remains important across government, finance, healthcare, technology and other sectors.
+
+Why Recommended:
+Recommended for students interested in computers, networking, security, investigation, cryptography and understanding how systems can be protected from attacks.
+
+==================================================
+
+
+==================================================
+Specialization: Software Engineering
+
+Category:
+Technology
+
+Description:
+Software Engineering focuses on the systematic design, development, testing, deployment and maintenance of software systems. It emphasizes programming as well as software development practices such as requirements analysis, version control, testing, architecture, documentation and collaboration.
+
+Interests:
+software, programming, coding, applications, development, testing, technology, problem solving, computers
+
+Preferred School Subjects:
+Mathematics, Computer Science, Physics or related technical subjects.
+
+Skills Needed:
+Programming, Software Design, Testing, Debugging, Version Control, Problem Solving, Communication, Teamwork
+
+Prerequisites:
+10+2 qualification. Exact subject requirements depend on the institution and program.
+
+Entrance Exams:
+JEE Main, state-level examinations, university entrance examinations or institution-specific admission processes.
+
+Duration:
+Typically 4 years for an engineering degree.
+
+Career Options:
+Software Engineer, Software Developer, Application Developer, Backend Developer, Frontend Developer, Full Stack Developer, QA Engineer
+
+Future Scope:
+Excellent. Software is used in almost every major industry. Opportunities exist in web applications, mobile applications, enterprise software, cloud platforms, embedded systems and many other areas.
+
+Why Recommended:
+Recommended for students who enjoy building applications, writing code, debugging programs and working on software products.
+
+==================================================
+
+
+==================================================
+Specialization: Information Technology
+
+Category:
+Technology
+
+Description:
+Information Technology focuses on using computing systems, software, networks and digital infrastructure to support organizations and users. It includes areas such as databases, networking, cloud computing, web technologies, system administration and information management.
+
+Interests:
+computers, technology, networking, software, databases, cloud, web development, systems, programming
+
+Preferred School Subjects:
+Mathematics, Computer Science, Physics or related subjects.
+
+Skills Needed:
+Programming, Networking, Database Management, Communication, Problem Solving, System Administration, Critical Thinking
+
+Prerequisites:
+10+2 qualification. Mathematics requirements depend on the institution.
+
+Entrance Exams:
+JEE Main, state-level entrance examinations, university-specific examinations and other applicable admission routes.
+
+Duration:
+Typically 4 years for an undergraduate engineering program in India.
+
+Career Options:
+IT Engineer, System Administrator, Network Engineer, Cloud Engineer, Database Administrator, Software Developer, IT Consultant
+
+Future Scope:
+Excellent. Digital infrastructure, cloud platforms, enterprise systems and networked applications continue to create demand for IT professionals.
+
+Why Recommended:
+Recommended for students interested in computers, networks, software systems, databases and applying technology to practical organizational problems.
+
+==================================================
+
+
+==================================================
+Specialization: Robotics and Automation
+
+Category:
+Technology
+
+Description:
+Robotics and Automation combines mechanical engineering, electronics, control systems and computer science to design and operate automated machines and robotic systems. Students may study sensors, actuators, programming, robotics, control systems, embedded systems and automation.
+
+Interests:
+robotics, robots, automation, programming, electronics, machines, artificial intelligence, engineering, sensors
+
+Preferred School Subjects:
+Mathematics, Physics, Computer Science, Electronics where available.
+
+Skills Needed:
+Programming, Electronics, Control Systems, Problem Solving, Mathematics, Mechanical Understanding, Teamwork
+
+Prerequisites:
+10+2 qualification with relevant science and mathematics subjects. Requirements vary by institution.
+
+Entrance Exams:
+JEE Main, JEE Advanced, state-level engineering examinations and university-specific admission routes.
+
+Duration:
+Typically 4 years for an undergraduate engineering program.
+
+Career Options:
+Robotics Engineer, Automation Engineer, Robotics Software Engineer, Control Systems Engineer, Embedded Systems Engineer, Automation Specialist
+
+Future Scope:
+Very Good to Excellent. Automation and robotics are important in manufacturing, logistics, healthcare, agriculture, research and other industries. The field often requires interdisciplinary engineering knowledge.
+
+Why Recommended:
+Recommended for students who enjoy robots, machines, programming, electronics, automation and combining physical systems with software.
+
+==================================================

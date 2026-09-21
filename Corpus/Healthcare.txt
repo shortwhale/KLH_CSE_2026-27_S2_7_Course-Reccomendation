@@ -1,0 +1,241 @@
+CAREER RECOMMENDATION CORPUS
+
+This corpus contains healthcare and life-science specializations for a career recommendation system.
+
+#########################
+CATEGORY: Healthcare
+#########################
+
+
+==================================================
+Specialization: Medicine
+
+Category:
+Healthcare
+
+Description:
+Medicine focuses on the prevention, diagnosis, treatment and management of diseases and health conditions. Medical education combines biological sciences with clinical training and patient care. Students study subjects such as anatomy, physiology, biochemistry, pathology, pharmacology and clinical medicine.
+
+Interests:
+medicine, biology, healthcare, human body, science, helping people, diseases, diagnosis, patient care
+
+Preferred School Subjects:
+Biology, Physics, Chemistry.
+
+Skills Needed:
+Scientific Reasoning, Communication, Observation, Decision Making, Empathy, Problem Solving, Attention to Detail
+
+Prerequisites:
+10+2 qualification with required science subjects. Medical admission requirements vary by country and institution.
+
+Entrance Exams:
+In India, NEET-UG is the principal national entrance examination for undergraduate medical admissions, subject to applicable regulations.
+
+Duration:
+Typically 5.5 years for MBBS in India including the required internship.
+
+Career Options:
+Physician, Medical Practitioner, Clinical Researcher, Medical Officer, Public Health Professional. Further specialization can lead to careers in many medical specialties.
+
+Future Scope:
+Excellent. Healthcare remains an essential sector. Medical careers can progress through postgraduate specialization, clinical practice, research, public health and healthcare administration.
+
+Why Recommended:
+Recommended for students strongly interested in biology, human health, science, patient care and solving complex health-related problems.
+
+==================================================
+
+
+==================================================
+Specialization: Pharmacy
+
+Category:
+Healthcare
+
+Description:
+Pharmacy focuses on medicines, including their development, preparation, properties, effects, safe use and distribution. Students study pharmaceutical chemistry, pharmacology, pharmaceutics and related biological sciences. Pharmacists contribute to safe and effective medication use.
+
+Interests:
+medicines, biology, chemistry, healthcare, drugs, pharmacy, science, patient care, research
+
+Preferred School Subjects:
+Chemistry, Biology, Physics and Mathematics depending on the program.
+
+Skills Needed:
+Chemistry, Biology, Attention to Detail, Communication, Scientific Reasoning, Organization, Accuracy
+
+Prerequisites:
+10+2 qualification with required science subjects. Exact requirements depend on the program and institution.
+
+Entrance Exams:
+Admission requirements vary by institution and state. Some programs use national or state-level entrance examinations while others use merit or university-specific processes.
+
+Duration:
+Typically 4 years for a Bachelor of Pharmacy program.
+
+Career Options:
+Community Pharmacist, Hospital Pharmacist, Pharmaceutical Industry Professional, Quality Control Analyst, Drug Safety Associate, Regulatory Affairs Associate, Clinical Research Associate
+
+Future Scope:
+Very Good to Excellent. Pharmaceutical manufacturing, healthcare, research, drug regulation and clinical research provide career opportunities.
+
+Why Recommended:
+Recommended for students interested in chemistry, biology, medicines, healthcare and scientific research.
+
+==================================================
+
+
+==================================================
+Specialization: Nursing
+
+Category:
+Healthcare
+
+Description:
+Nursing focuses on patient care, health promotion, disease prevention, clinical support and coordination of healthcare services. Nurses work closely with patients and other healthcare professionals in hospitals, clinics, community settings and other healthcare environments.
+
+Interests:
+healthcare, patient care, biology, helping people, hospitals, medicine, communication, human body
+
+Preferred School Subjects:
+Biology, Chemistry, Physics and English.
+
+Skills Needed:
+Communication, Empathy, Observation, Clinical Skills, Teamwork, Decision Making, Time Management
+
+Prerequisites:
+10+2 qualification with required subjects. Specific eligibility criteria vary by nursing program and institution.
+
+Entrance Exams:
+Admission may involve national, state or institution-specific examinations depending on the program and location.
+
+Duration:
+Typically 4 years for a Bachelor of Science in Nursing program.
+
+Career Options:
+Registered Nurse, Clinical Nurse, Community Health Nurse, Critical Care Nurse, Nursing Educator, Nurse Administrator
+
+Future Scope:
+Excellent. Nurses are essential across hospitals, clinics, community healthcare, elderly care and public health services.
+
+Why Recommended:
+Recommended for students who enjoy biology, healthcare, direct patient interaction, teamwork and helping people in practical settings.
+
+==================================================
+
+
+==================================================
+Specialization: Physiotherapy
+
+Category:
+Healthcare
+
+Description:
+Physiotherapy focuses on improving movement, physical function and quality of life for people affected by injury, illness or physical limitations. Students learn about anatomy, physiology, biomechanics, exercise therapy and rehabilitation techniques.
+
+Interests:
+healthcare, human body, fitness, sports, rehabilitation, anatomy, exercise, helping people
+
+Preferred School Subjects:
+Biology, Physics and Chemistry.
+
+Skills Needed:
+Anatomy, Observation, Communication, Patient Handling, Problem Solving, Empathy, Physical Assessment
+
+Prerequisites:
+10+2 qualification with required science subjects. Requirements vary by institution.
+
+Entrance Exams:
+Admission procedures vary by institution and state and may involve entrance examinations or merit-based admission.
+
+Duration:
+Typically 4.5 years for a Bachelor of Physiotherapy program including internship, depending on applicable regulations.
+
+Career Options:
+Physiotherapist, Sports Physiotherapist, Rehabilitation Therapist, Clinical Physiotherapist, Rehabilitation Specialist
+
+Future Scope:
+Very Good. Physiotherapy is relevant in hospitals, rehabilitation centers, sports, orthopedics, neurological care and community healthcare.
+
+Why Recommended:
+Recommended for students interested in biology, anatomy, exercise, sports, physical rehabilitation and helping people recover movement and function.
+
+==================================================
+
+
+==================================================
+Specialization: Biotechnology
+
+Category:
+Healthcare
+
+Description:
+Biotechnology applies biological systems, organisms and cellular or molecular processes to develop useful products and technologies. The field can involve genetics, microbiology, molecular biology, biochemistry and laboratory techniques.
+
+Interests:
+biology, genetics, laboratory, biotechnology, research, DNA, microbiology, medicine, science
+
+Preferred School Subjects:
+Biology, Chemistry, Physics and Mathematics depending on the program.
+
+Skills Needed:
+Laboratory Skills, Biology, Chemistry, Scientific Reasoning, Data Analysis, Research, Attention to Detail
+
+Prerequisites:
+10+2 qualification with relevant science subjects. Program requirements vary.
+
+Entrance Exams:
+Admission may be based on university-specific examinations, national or state-level processes or merit, depending on the institution.
+
+Duration:
+Typically 3-4 years for undergraduate study.
+
+Career Options:
+Biotechnology Research Assistant, Laboratory Analyst, Quality Control Professional, Bioprocess Associate, Clinical Research Associate, Scientific Assistant
+
+Future Scope:
+Very Good. Biotechnology has applications in pharmaceuticals, agriculture, diagnostics, food science, environmental science and research.
+
+Why Recommended:
+Recommended for students who enjoy biology, genetics, laboratory work, scientific research and understanding biological processes.
+
+==================================================
+
+
+==================================================
+Specialization: Public Health
+
+Category:
+Healthcare
+
+Description:
+Public Health focuses on improving the health of populations rather than only treating individual patients. It includes disease prevention, health education, epidemiology, health policy, environmental health and community health programs.
+
+Interests:
+healthcare, community, biology, disease prevention, research, statistics, society, health policy
+
+Preferred School Subjects:
+Biology, Chemistry, Mathematics, Statistics and Social Sciences where available.
+
+Skills Needed:
+Research, Statistics, Communication, Critical Thinking, Data Analysis, Public Speaking, Organization
+
+Prerequisites:
+Eligibility depends on the undergraduate program and institution. Science or related academic backgrounds may be preferred for certain programs.
+
+Entrance Exams:
+Varies by institution and program.
+
+Duration:
+Typically 3-4 years for undergraduate study, with postgraduate public health programs commonly requiring additional study.
+
+Career Options:
+Public Health Analyst, Health Program Coordinator, Epidemiology Assistant, Health Educator, Community Health Professional, Public Health Researcher
+
+Future Scope:
+Very Good. Governments, healthcare organizations, research institutions and international organizations require professionals who can design and evaluate population-level health programs.
+
+Why Recommended:
+Recommended for students interested in healthcare, disease prevention, community welfare, research, statistics and improving health at a population level.
+
+==================================================

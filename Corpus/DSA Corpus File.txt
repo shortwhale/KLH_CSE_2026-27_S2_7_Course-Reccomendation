@@ -1,0 +1,1353 @@
+CAREER RECOMMENDATION CORPUS
+
+This corpus is intended for a specialization recommendation system.
+
+#########################
+CATEGORY: Technology
+#########################
+
+==================================================
+Specialization: Computer Science Engineering
+
+Category:
+Technology
+
+Description:
+Computer Science Engineering is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+coding, programming, algorithms, mathematics, computers, logic
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Software Engineer, Backend Developer, Full Stack Developer
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Artificial Intelligence & Machine Learning
+
+Category:
+Technology
+
+Description:
+Artificial Intelligence & Machine Learning is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+ai, machine learning, python, mathematics, statistics, robotics
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+AI Engineer, ML Engineer, Data Scientist
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Data Science
+
+Category:
+Technology
+
+Description:
+Data Science is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+data, analytics, python, statistics, visualization
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Data Scientist, Data Analyst
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Cyber Security
+
+Category:
+Technology
+
+Description:
+Cyber Security is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+security, networking, hacking, linux, cryptography
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Security Analyst, Ethical Hacker
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Cloud Computing
+
+Category:
+Technology
+
+Description:
+Cloud Computing is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+cloud, aws, azure, servers, virtualization
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Cloud Engineer, DevOps Engineer
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Game Development
+
+Category:
+Technology
+
+Description:
+Game Development is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+games, unity, godot, c#, creativity, graphics
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Game Developer, Gameplay Programmer
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: UI/UX Design
+
+Category:
+Technology
+
+Description:
+UI/UX Design is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+design, creativity, figma, prototyping
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+UI Designer, UX Researcher
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Robotics
+
+Category:
+Technology
+
+Description:
+Robotics is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+robots, electronics, ai, programming
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Robotics Engineer
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: IoT
+
+Category:
+Technology
+
+Description:
+IoT is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+embedded, sensors, electronics, automation
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+IoT Engineer
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Software Engineering
+
+Category:
+Technology
+
+Description:
+Software Engineering is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+coding, software, teamwork, testing
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Software Engineer
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+#########################
+CATEGORY: Engineering
+#########################
+
+==================================================
+Specialization: Mechanical Engineering
+
+Category:
+Engineering
+
+Description:
+Mechanical Engineering is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+machines, mechanics, design, manufacturing
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Mechanical Engineer
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Civil Engineering
+
+Category:
+Engineering
+
+Description:
+Civil Engineering is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+construction, buildings, infrastructure
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Civil Engineer
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Electrical Engineering
+
+Category:
+Engineering
+
+Description:
+Electrical Engineering is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+circuits, electricity, power
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Electrical Engineer
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Electronics & Communication
+
+Category:
+Engineering
+
+Description:
+Electronics & Communication is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+electronics, communication, embedded
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+ECE Engineer
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Chemical Engineering
+
+Category:
+Engineering
+
+Description:
+Chemical Engineering is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+chemistry, process, industry
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Chemical Engineer
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Biomedical Engineering
+
+Category:
+Engineering
+
+Description:
+Biomedical Engineering is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+biology, engineering, healthcare
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Biomedical Engineer
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Aerospace Engineering
+
+Category:
+Engineering
+
+Description:
+Aerospace Engineering is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+aircraft, physics, space
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Aerospace Engineer
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Environmental Engineering
+
+Category:
+Engineering
+
+Description:
+Environmental Engineering is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+environment, sustainability, water
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Environmental Engineer
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+#########################
+CATEGORY: Medical & Science
+#########################
+
+==================================================
+Specialization: MBBS
+
+Category:
+Medical & Science
+
+Description:
+MBBS is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+biology, healthcare, medicine
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Doctor
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Dentistry
+
+Category:
+Medical & Science
+
+Description:
+Dentistry is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+teeth, healthcare, biology
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Dentist
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Pharmacy
+
+Category:
+Medical & Science
+
+Description:
+Pharmacy is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+medicine, chemistry, healthcare
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Pharmacist
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Biotechnology
+
+Category:
+Medical & Science
+
+Description:
+Biotechnology is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+biology, genetics, research
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Biotechnologist
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Microbiology
+
+Category:
+Medical & Science
+
+Description:
+Microbiology is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+microorganisms, laboratory, research
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Microbiologist
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Nutrition & Dietetics
+
+Category:
+Medical & Science
+
+Description:
+Nutrition & Dietetics is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+food, health, biology
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Dietitian
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+#########################
+CATEGORY: Commerce & Business
+#########################
+
+==================================================
+Specialization: Finance
+
+Category:
+Commerce & Business
+
+Description:
+Finance is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+finance, investment, economics
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Financial Analyst
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Accounting
+
+Category:
+Commerce & Business
+
+Description:
+Accounting is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+accounts, taxation, auditing
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Accountant
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Business Administration
+
+Category:
+Commerce & Business
+
+Description:
+Business Administration is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+leadership, management, business
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Business Manager
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Marketing
+
+Category:
+Commerce & Business
+
+Description:
+Marketing is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+branding, communication, sales
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Marketing Manager
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Business Analytics
+
+Category:
+Commerce & Business
+
+Description:
+Business Analytics is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+analytics, business, data
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Business Analyst
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+#########################
+CATEGORY: Arts & Humanities
+#########################
+
+==================================================
+Specialization: Psychology
+
+Category:
+Arts & Humanities
+
+Description:
+Psychology is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+people, counselling, behaviour
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Psychologist
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Law
+
+Category:
+Arts & Humanities
+
+Description:
+Law is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+justice, debate, constitution
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Lawyer
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Journalism
+
+Category:
+Arts & Humanities
+
+Description:
+Journalism is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+writing, news, communication
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Journalist
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Graphic Design
+
+Category:
+Arts & Humanities
+
+Description:
+Graphic Design is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+design, photoshop, creativity
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Graphic Designer
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Animation
+
+Category:
+Arts & Humanities
+
+Description:
+Animation is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+animation, drawing, 3d
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Animator
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================
+
+==================================================
+Specialization: Architecture
+
+Category:
+Arts & Humanities
+
+Description:
+Architecture is a field that prepares students with theoretical knowledge and practical skills for related industries.
+
+Interests:
+drawing, buildings, mathematics
+
+Preferred School Subjects:
+Depends on specialization (typically Mathematics, Physics, Biology, Commerce or Arts).
+
+Skills Needed:
+Problem Solving, Communication, Critical Thinking, Teamwork
+
+Prerequisites:
+10+2 qualification. Subject requirements vary by institution.
+
+Entrance Exams:
+Depends on country/university (JEE, NEET, CUET, CLAT, NATA, State CET, etc.)
+
+Duration:
+Typically 3-5 years
+
+Career Options:
+Architect
+
+Future Scope:
+Good to Excellent depending on industry trends.
+
+Why Recommended:
+Recommended for students whose interests and strengths closely match the listed keywords.
+
+==================================================

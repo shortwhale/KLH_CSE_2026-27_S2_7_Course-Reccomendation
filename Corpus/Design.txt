@@ -1,0 +1,241 @@
+CAREER RECOMMENDATION CORPUS
+
+This corpus contains design, architecture, media and creative technology specializations.
+
+#########################
+CATEGORY: Design and Creative Technology
+#########################
+
+
+==================================================
+Specialization: Graphic Design
+
+Category:
+Design and Creative Technology
+
+Description:
+Graphic Design focuses on communicating ideas and information through visual elements such as typography, images, layouts, illustrations and color. Designers create visual materials for digital platforms, publications, branding, advertising and other communication needs.
+
+Interests:
+drawing, art, creativity, graphics, visual design, colors, typography, posters, branding, computers
+
+Preferred School Subjects:
+Fine Arts, Design, Computer Science, English or other creative subjects. Requirements vary by institution.
+
+Skills Needed:
+Creativity, Visual Communication, Typography, Composition, Digital Design, Attention to Detail, Communication
+
+Prerequisites:
+10+2 qualification. Portfolio requirements may apply for some design programs.
+
+Entrance Exams:
+NID DAT, UCEED for applicable programs, university-specific design examinations and portfolio-based admissions depending on the institution.
+
+Duration:
+Typically 3-4 years for undergraduate programs.
+
+Career Options:
+Graphic Designer, Brand Designer, Visual Designer, Illustration Designer, Communication Designer, Digital Designer
+
+Future Scope:
+Very Good. Graphic design is used in branding, advertising, publishing, digital products, social media and communication. Digital design skills can expand opportunities.
+
+Why Recommended:
+Recommended for students who enjoy drawing, visual communication, typography, colors, creative software and creating visual concepts.
+
+==================================================
+
+
+==================================================
+Specialization: User Experience and User Interface Design
+
+Category:
+Design and Creative Technology
+
+Description:
+UX and UI Design focuses on creating digital products that are useful, understandable and visually effective. UX work involves understanding users, researching problems, designing information structures and testing interactions. UI design focuses on visual interfaces, layouts, typography, components and visual consistency.
+
+Interests:
+design, websites, apps, creativity, technology, psychology, user experience, interfaces, problem solving
+
+Preferred School Subjects:
+Design, Computer Science, Fine Arts, Psychology, English or related subjects.
+
+Skills Needed:
+Visual Design, User Research, Wireframing, Prototyping, Communication, Problem Solving, Empathy, Critical Thinking
+
+Prerequisites:
+10+2 qualification. Some design programs may require portfolios or entrance examinations.
+
+Entrance Exams:
+UCEED, NID DAT, university-specific design examinations and portfolio-based admission processes where applicable.
+
+Duration:
+Typically 3-4 years for undergraduate design programs.
+
+Career Options:
+UX Designer, UI Designer, Product Designer, Interaction Designer, UX Researcher, Design Consultant
+
+Future Scope:
+Excellent. Digital products require professionals who understand both user needs and visual communication. UX and product design are relevant to software, finance, healthcare, education and consumer applications.
+
+Why Recommended:
+Recommended for students who enjoy both creativity and technology and like understanding how people interact with websites, mobile applications and digital products.
+
+==================================================
+
+
+==================================================
+Specialization: Architecture
+
+Category:
+Design and Creative Technology
+
+Description:
+Architecture combines design, engineering concepts, spatial planning and construction knowledge to create buildings and built environments. Students study architectural design, building materials, structures, environmental considerations, history and professional practice.
+
+Interests:
+architecture, buildings, drawing, design, construction, creativity, mathematics, geometry, spaces
+
+Preferred School Subjects:
+Mathematics, Physics, Fine Arts, Design.
+
+Skills Needed:
+Drawing, Spatial Reasoning, Design, Mathematics, Visualization, Technical Drawing, Problem Solving, Communication
+
+Prerequisites:
+10+2 qualification with applicable subject requirements. Mathematics is commonly required for architecture programs in India.
+
+Entrance Exams:
+NATA and other applicable architecture admission routes depending on the institution.
+
+Duration:
+Typically 5 years for a Bachelor of Architecture program in India.
+
+Career Options:
+Architect, Architectural Designer, Urban Design Assistant, Interior Architecture Professional, Architectural Visualization Specialist, Building Design Consultant
+
+Future Scope:
+Very Good. Opportunities exist in architecture firms, construction, urban development, interior environments, sustainable design and architectural visualization.
+
+Why Recommended:
+Recommended for students who enjoy buildings, drawing, geometry, spatial design, creativity and combining artistic ideas with technical concepts.
+
+==================================================
+
+
+==================================================
+Specialization: Animation and Visual Effects
+
+Category:
+Design and Creative Technology
+
+Description:
+Animation and Visual Effects focuses on creating moving images, digital characters, environments and visual effects for films, games, advertisements and digital media. Students may learn drawing, storytelling, 2D animation, 3D modeling, texturing, lighting, rigging, compositing and digital production.
+
+Interests:
+animation, drawing, movies, games, storytelling, art, 3d, visual effects, creativity, characters
+
+Preferred School Subjects:
+Fine Arts, Design, Computer Science, Media Studies or related subjects.
+
+Skills Needed:
+Drawing, Storytelling, Creativity, 3D Modeling, Animation, Visual Communication, Patience, Attention to Detail
+
+Prerequisites:
+10+2 qualification. Portfolio requirements may apply for some programs.
+
+Entrance Exams:
+Institution-specific entrance examinations, design examinations or portfolio-based admission processes.
+
+Duration:
+Typically 3-4 years for undergraduate programs.
+
+Career Options:
+3D Artist, Animator, Character Designer, VFX Artist, Motion Graphics Designer, 3D Modeler, Compositor
+
+Future Scope:
+Very Good. Animation and visual effects are used in film, television, advertising, games, education and digital content. Strong portfolios are particularly important for employment.
+
+Why Recommended:
+Recommended for students who enjoy drawing, storytelling, movies, games, characters, digital art and creating visual worlds.
+
+==================================================
+
+
+==================================================
+Specialization: Interior Design
+
+Category:
+Design and Creative Technology
+
+Description:
+Interior Design focuses on planning and designing indoor spaces for functionality, comfort, aesthetics and user needs. Students may study space planning, materials, furniture, lighting, color, building services and design communication.
+
+Interests:
+interior design, decoration, architecture, furniture, colors, creativity, spaces, drawing, lifestyle
+
+Preferred School Subjects:
+Fine Arts, Design, Mathematics, Physics or related subjects.
+
+Skills Needed:
+Creativity, Spatial Planning, Drawing, Visualization, Communication, Material Knowledge, Project Management
+
+Prerequisites:
+10+2 qualification. Exact eligibility varies by institution.
+
+Entrance Exams:
+Institution-specific design examinations, portfolio evaluation or other applicable admission processes.
+
+Duration:
+Typically 3-4 years for undergraduate programs.
+
+Career Options:
+Interior Designer, Spatial Designer, Exhibition Designer, Interior Stylist, Design Consultant, Residential Designer
+
+Future Scope:
+Very Good. Demand exists in residential, commercial, hospitality, retail and workspace design.
+
+Why Recommended:
+Recommended for students who enjoy decorating spaces, colors, furniture, architecture, creativity and visualizing how environments should look and function.
+
+==================================================
+
+
+==================================================
+Specialization: Game Design and Development
+
+Category:
+Design and Creative Technology
+
+Description:
+Game Design and Development combines creative design with programming and technology to create interactive games. Depending on the program, students may study game mechanics, storytelling, level design, graphics, programming, game engines, sound and user experience.
+
+Interests:
+games, gaming, programming, storytelling, art, animation, technology, creativity, game development
+
+Preferred School Subjects:
+Computer Science, Mathematics, Fine Arts, Design, Physics or related subjects.
+
+Skills Needed:
+Programming, Game Design, Creativity, Problem Solving, Storytelling, 3D Modeling, Teamwork
+
+Prerequisites:
+10+2 qualification. Requirements vary by institution and program.
+
+Entrance Exams:
+University-specific examinations, design examinations or applicable engineering admission routes depending on the degree.
+
+Duration:
+Typically 3-4 years.
+
+Career Options:
+Game Developer, Game Designer, Level Designer, Gameplay Programmer, Technical Artist, Game Tester, Game Producer
+
+Future Scope:
+Good to Excellent. Games and interactive media continue to develop across mobile, PC, console and emerging platforms. Success often depends heavily on technical skills, creativity and portfolio quality.
+
+Why Recommended:
+Recommended for students who enjoy games, programming, storytelling, digital art, interactive experiences and creating virtual worlds.
+
+==================================================
