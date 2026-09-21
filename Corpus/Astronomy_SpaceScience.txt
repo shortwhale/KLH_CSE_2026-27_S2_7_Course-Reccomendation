@@ -1,0 +1,124 @@
+CAREER RECOMMENDATION CORPUS
+
+This corpus contains astronomy and space science specializations for a career recommendation system.
+
+#########################
+CATEGORY: Astronomy and Space Science
+#########################
+
+
+==================================================
+Specialization: Astronomy and Astrophysics
+
+Category:
+Astronomy and Space Science
+
+Description:
+Astronomy and Astrophysics studies celestial objects, the universe and its physical laws, applying physics and mathematics to understand stars, galaxies and cosmic phenomena.
+
+Interests:
+astronomy, space, physics, stars, universe, research, mathematics
+
+Preferred School Subjects:
+Physics and Mathematics.
+
+Skills Needed:
+Advanced Mathematics, Physics Knowledge, Research, Analytical Thinking, Programming Basics
+
+Prerequisites:
+10+2 qualification with Physics and Mathematics is required.
+
+Entrance Exams:
+National-level science entrance examinations and university-specific tests for research-oriented programs.
+
+Duration:
+Typically 3 years for a bachelor's degree in Physics or Astronomy, often followed by specialized postgraduate study.
+
+Career Options:
+Astronomer, Astrophysicist, Research Scientist, Observatory Technician
+
+Future Scope:
+Niche but growing opportunities in research institutions, space agencies and academia, supported by expanding space programs.
+
+Why Recommended:
+Recommended for students fascinated by the universe, stars and the physics that governs cosmic phenomena.
+
+==================================================
+
+
+==================================================
+Specialization: Space Science and Technology
+
+Category:
+Astronomy and Space Science
+
+Description:
+Space Science and Technology covers satellite systems, space missions and the technology used to explore and utilize space, blending physics, engineering and data analysis.
+
+Interests:
+space, satellites, technology, engineering, physics, exploration
+
+Preferred School Subjects:
+Physics and Mathematics.
+
+Skills Needed:
+Physics Knowledge, Engineering Fundamentals, Data Analysis, Problem Solving, Programming Basics
+
+Prerequisites:
+10+2 qualification with Physics and Mathematics is required.
+
+Entrance Exams:
+JEE Main, JEE Advanced and institution-specific space technology entrance examinations.
+
+Duration:
+Typically 4 years for a Bachelor of Technology with a space technology specialization, or 3 years for a Physics-based degree.
+
+Career Options:
+Space Systems Engineer, Satellite Engineer, Mission Analyst, Remote Sensing Specialist
+
+Future Scope:
+Expanding opportunities as government and private space agencies grow satellite and exploration programs.
+
+Why Recommended:
+Recommended for students who want to combine engineering and physics with the excitement of space exploration.
+
+==================================================
+
+
+==================================================
+Specialization: Planetary Science
+
+Category:
+Astronomy and Space Science
+
+Description:
+Planetary Science studies planets, moons and other bodies within solar systems, combining geology, physics and chemistry to understand planetary formation and composition.
+
+Interests:
+planets, space, geology, physics, chemistry, research, exploration
+
+Preferred School Subjects:
+Physics, Chemistry and Mathematics.
+
+Skills Needed:
+Research, Physics and Chemistry Knowledge, Data Analysis, Critical Thinking, Attention to Detail
+
+Prerequisites:
+10+2 qualification with Physics and Mathematics is required.
+
+Entrance Exams:
+National-level science entrance examinations and university-specific tests for research-oriented programs.
+
+Duration:
+Typically 3 years for a bachelor's degree in a related science field, often followed by specialized postgraduate study.
+
+Career Options:
+Planetary Scientist, Research Associate, Space Mission Scientist, Geoscience Researcher
+
+Future Scope:
+Growing opportunities tied to interplanetary exploration missions and expanding space research programs.
+
+Why Recommended:
+Recommended for students curious about other worlds and interested in the science behind planetary formation and exploration.
+
+==================================================
