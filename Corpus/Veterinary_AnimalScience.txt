@@ -1,0 +1,124 @@
+CAREER RECOMMENDATION CORPUS
+
+This corpus contains veterinary and animal science specializations for a career recommendation system.
+
+#########################
+CATEGORY: Veterinary and Animal Science
+#########################
+
+
+==================================================
+Specialization: Veterinary Science
+
+Category:
+Veterinary and Animal Science
+
+Description:
+Veterinary Science trains students to diagnose, treat and prevent diseases in animals, covering animal anatomy, surgery, pharmacology and public health related to livestock and pets.
+
+Interests:
+animals, medicine, biology, veterinary care, surgery, compassion
+
+Preferred School Subjects:
+Biology, Chemistry and Physics.
+
+Skills Needed:
+Animal Handling, Biology Knowledge, Compassion, Precision, Problem Solving
+
+Prerequisites:
+10+2 qualification with Biology, Chemistry and Physics is required.
+
+Entrance Exams:
+NEET and institution-specific veterinary entrance examinations in India.
+
+Duration:
+Typically 5 years for a Bachelor of Veterinary Science degree.
+
+Career Options:
+Veterinarian, Animal Surgeon, Livestock Consultant, Wildlife Veterinarian
+
+Future Scope:
+Steady demand in pet care, livestock management, wildlife conservation and veterinary research.
+
+Why Recommended:
+Recommended for students who love animals and want to combine that passion with a career in medicine and care.
+
+==================================================
+
+
+==================================================
+Specialization: Animal Husbandry and Dairy Science
+
+Category:
+Veterinary and Animal Science
+
+Description:
+Animal Husbandry and Dairy Science covers the breeding, feeding, health management and productivity of livestock, with a focus on dairy and farm animal management.
+
+Interests:
+animals, farming, biology, agriculture, livestock, management
+
+Preferred School Subjects:
+Biology and Chemistry.
+
+Skills Needed:
+Animal Handling, Biology Knowledge, Farm Management, Problem Solving, Planning
+
+Prerequisites:
+10+2 qualification with Biology and Chemistry is often required.
+
+Entrance Exams:
+State-level and university-specific agricultural and veterinary entrance examinations.
+
+Duration:
+Typically 4 years for a bachelor's degree in Animal Husbandry and Dairy Science.
+
+Career Options:
+Livestock Manager, Dairy Farm Manager, Animal Nutritionist, Extension Officer
+
+Future Scope:
+Consistent demand as dairy and livestock industries modernize and expand production.
+
+Why Recommended:
+Recommended for students interested in farm animals, agriculture and improving livestock productivity and welfare.
+
+==================================================
+
+
+==================================================
+Specialization: Zoology and Wildlife Studies
+
+Category:
+Veterinary and Animal Science
+
+Description:
+Zoology and Wildlife Studies focuses on the scientific study of animal behavior, physiology and ecosystems, often applied to conservation and wildlife management.
+
+Interests:
+animals, wildlife, biology, ecology, conservation, research, nature
+
+Preferred School Subjects:
+Biology and Chemistry.
+
+Skills Needed:
+Field Research, Biology Knowledge, Observation, Data Analysis, Report Writing
+
+Prerequisites:
+10+2 qualification with Biology is often preferred.
+
+Entrance Exams:
+University-specific entrance examinations; some institutions admit based on merit.
+
+Duration:
+Typically 3 years for a bachelor's degree in Zoology.
+
+Career Options:
+Wildlife Biologist, Zoologist, Conservation Researcher, Wildlife Park Ranger
+
+Future Scope:
+Opportunities in conservation organizations, wildlife parks, zoos and ecological research institutions.
+
+Why Recommended:
+Recommended for students fascinated by animal behavior and interested in studying and protecting wildlife.
+
+==================================================
