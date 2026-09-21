@@ -1,59 +1,163 @@
+CAREER RECOMMENDATION CORPUS
+
+This corpus contains hospitality and tourism specializations for a career recommendation system.
+
+#########################
+CATEGORY: Hospitality and Tourism
+#########################
+
+
+==================================================
 Specialization: Hotel Management
-Category: Hospitality and Tourism
-Interests: hospitality, hotels, customer service, management, tourism, operations
-Career Options: Hotel Manager, Front Office Manager, Guest Relations Manager, Operations Manager
-Future Scope: Opportunities in hotels, resorts, hospitality groups, and tourism businesses.
 
-Specialization: Tourism Management
-Category: Hospitality and Tourism
-Interests: tourism, travel, destinations, hospitality, planning, customer service
-Career Options: Tourism Manager, Travel Consultant, Destination Manager, Tourism Officer
-Future Scope: Applications in travel companies, tourism boards, resorts, and destination management.
+Category:
+Hospitality and Tourism
 
-Specialization: Event Management
-Category: Hospitality and Tourism
-Interests: events, planning, management, communication, entertainment, logistics
-Career Options: Event Manager, Event Coordinator, Conference Planner, Production Manager
-Future Scope: Opportunities in corporate events, weddings, conferences, entertainment, and exhibitions.
+Description:
+Hotel Management trains students to run hotels, resorts and hospitality venues, covering front office operations, housekeeping, food and beverage service and guest relations.
 
-Specialization: Travel Management
-Category: Hospitality and Tourism
-Interests: travel, tourism, flights, destinations, booking, customer service
-Career Options: Travel Consultant, Travel Coordinator, Travel Operations Manager, Tour Planner
-Future Scope: Applications in travel agencies, online travel platforms, airlines, and tourism companies.
+Interests:
+hospitality, customer service, hotels, travel, organization, management, food service
 
+Preferred School Subjects:
+Any stream; English and Business Studies where available.
+
+Skills Needed:
+Customer Service, Communication, Organization, Multitasking, Problem Solving
+
+Prerequisites:
+10+2 qualification in any stream.
+
+Entrance Exams:
+NCHMCT JEE and university-specific hotel management entrance examinations in India.
+
+Duration:
+Typically 3 to 4 years for a bachelor's degree in Hotel Management.
+
+Career Options:
+Hotel Manager, Front Office Manager, Food and Beverage Manager, Guest Relations Executive
+
+Future Scope:
+Recovering and growing demand as travel and tourism expand, along with growth in luxury and boutique hospitality.
+
+Why Recommended:
+Recommended for students who enjoy working with people, organizing operations and creating great guest experiences.
+
+==================================================
+
+
+==================================================
+Specialization: Travel and Tourism Management
+
+Category:
+Hospitality and Tourism
+
+Description:
+Travel and Tourism Management covers the planning, promotion and management of travel services, tour packages and destination experiences for individuals and groups.
+
+Interests:
+travel, tourism, geography, planning, customer service, culture, communication
+
+Preferred School Subjects:
+Geography and English where available.
+
+Skills Needed:
+Planning, Communication, Cultural Awareness, Customer Service, Organization
+
+Prerequisites:
+10+2 qualification in any stream.
+
+Entrance Exams:
+University-specific entrance examinations; some institutions admit based on merit.
+
+Duration:
+Typically 3 years for a bachelor's degree in Travel and Tourism Management.
+
+Career Options:
+Travel Consultant, Tour Operator, Destination Manager, Tourism Marketing Executive
+
+Future Scope:
+Growing opportunities with the expansion of domestic and international travel and experience-based tourism.
+
+Why Recommended:
+Recommended for students who love exploring places, planning trips and helping others discover new destinations.
+
+==================================================
+
+
+==================================================
 Specialization: Culinary Arts
-Category: Hospitality and Tourism
-Interests: cooking, food, culinary arts, restaurants, baking, hospitality
-Career Options: Chef, Pastry Chef, Culinary Manager, Food Stylist
-Future Scope: Opportunities in restaurants, hotels, resorts, catering, and food businesses.
 
-Specialization: Restaurant Management
-Category: Hospitality and Tourism
-Interests: restaurants, food service, hospitality, management, customer service, operations
-Career Options: Restaurant Manager, Food Service Manager, Operations Supervisor, Hospitality Manager
-Future Scope: Applications in restaurants, hotel dining, food chains, and hospitality groups.
+Category:
+Hospitality and Tourism
 
-Specialization: Airline Hospitality
-Category: Hospitality and Tourism
-Interests: airlines, aviation, customer service, travel, hospitality, communication
-Career Options: Cabin Crew, Airline Customer Service Executive, Airport Hospitality Coordinator
-Future Scope: Opportunities in airlines, airports, travel services, and aviation hospitality.
+Description:
+Culinary Arts trains students in professional cooking techniques, menu planning, kitchen management and food presentation for restaurants, hotels and catering businesses.
 
-Specialization: Tour Guiding
-Category: Hospitality and Tourism
-Interests: tourism, history, travel, communication, culture, destinations
-Career Options: Tour Guide, Heritage Guide, Travel Host, Destination Specialist
-Future Scope: Applications in tourism, heritage sites, travel companies, and destination services.
+Interests:
+cooking, food, creativity, kitchen, recipes, presentation, hospitality
 
-Specialization: Resort Management
-Category: Hospitality and Tourism
-Interests: resorts, hospitality, tourism, recreation, customer service, management
-Career Options: Resort Manager, Guest Experience Manager, Recreation Manager, Operations Manager
-Future Scope: Opportunities in resorts, leisure destinations, hospitality groups, and tourism businesses.
+Preferred School Subjects:
+Any stream; Home Science where available.
 
-Specialization: Hospitality Marketing
-Category: Hospitality and Tourism
-Interests: hospitality, marketing, tourism, branding, social media, customer experience
-Career Options: Hospitality Marketing Manager, Digital Marketer, Brand Executive, Tourism Marketer
-Future Scope: Applications in hotels, resorts, restaurants, travel companies, and destination marketing.
+Skills Needed:
+Cooking Techniques, Creativity, Time Management, Hygiene Practices, Attention to Detail
+
+Prerequisites:
+10+2 qualification in any stream.
+
+Entrance Exams:
+Institution-specific entrance examinations and practical skill assessments.
+
+Duration:
+Typically 1 to 3 years depending on diploma or degree program.
+
+Career Options:
+Chef, Sous Chef, Pastry Chef, Catering Manager, Restaurant Owner
+
+Future Scope:
+Strong demand in restaurants, hotels, catering and the growing food content and delivery industry.
+
+Why Recommended:
+Recommended for students passionate about cooking, flavors and creating memorable food experiences.
+
+==================================================
+
+
+==================================================
+Specialization: Event Management
+
+Category:
+Hospitality and Tourism
+
+Description:
+Event Management covers the planning, coordination and execution of events such as weddings, conferences and corporate functions, combining logistics with creative design.
+
+Interests:
+events, planning, organization, creativity, coordination, communication
+
+Preferred School Subjects:
+Any stream; Business Studies where available.
+
+Skills Needed:
+Planning, Coordination, Communication, Budgeting, Problem Solving
+
+Prerequisites:
+10+2 qualification in any stream.
+
+Entrance Exams:
+University-specific entrance examinations; some institutions admit based on merit.
+
+Duration:
+Typically 1 to 3 years depending on diploma or degree program.
+
+Career Options:
+Event Manager, Wedding Planner, Conference Coordinator, Corporate Events Executive
+
+Future Scope:
+Growing demand as corporate events, weddings and large-scale gatherings continue to expand.
+
+Why Recommended:
+Recommended for students who are highly organized, creative and enjoy coordinating people and logistics under pressure.
+
+==================================================
