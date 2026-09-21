@@ -1,0 +1,124 @@
+CAREER RECOMMENDATION CORPUS
+
+This corpus contains logistics and supply chain specializations for a career recommendation system.
+
+#########################
+CATEGORY: Logistics and Supply Chain
+#########################
+
+
+==================================================
+Specialization: Logistics Management
+
+Category:
+Logistics and Supply Chain
+
+Description:
+Logistics Management covers the planning and coordination of transportation, warehousing and distribution to ensure goods move efficiently from origin to destination.
+
+Interests:
+logistics, transportation, planning, organization, management, coordination
+
+Preferred School Subjects:
+Any stream; Mathematics and Business Studies where available.
+
+Skills Needed:
+Planning, Coordination, Problem Solving, Negotiation, Data Analysis
+
+Prerequisites:
+10+2 qualification in any stream.
+
+Entrance Exams:
+University-specific entrance examinations; some institutions admit based on merit.
+
+Duration:
+Typically 3 years for a bachelor's degree in Logistics Management.
+
+Career Options:
+Logistics Manager, Transportation Coordinator, Warehouse Manager, Distribution Planner
+
+Future Scope:
+Strong demand driven by e-commerce growth and increasingly complex global supply networks.
+
+Why Recommended:
+Recommended for students who enjoy organizing complex systems and ensuring things move efficiently and on time.
+
+==================================================
+
+
+==================================================
+Specialization: Supply Chain Management
+
+Category:
+Logistics and Supply Chain
+
+Description:
+Supply Chain Management focuses on the end-to-end flow of goods, from sourcing raw materials to delivering finished products, optimizing cost, speed and reliability.
+
+Interests:
+supply chain, logistics, management, procurement, planning, efficiency
+
+Preferred School Subjects:
+Any stream; Mathematics and Economics where available.
+
+Skills Needed:
+Data Analysis, Negotiation, Planning, Vendor Management, Problem Solving
+
+Prerequisites:
+10+2 qualification in any stream for a bachelor's degree.
+
+Entrance Exams:
+University-specific entrance examinations; some institutions admit based on merit.
+
+Duration:
+Typically 3 years for a bachelor's degree, or 2 years for a specialized master's program.
+
+Career Options:
+Supply Chain Manager, Procurement Specialist, Inventory Analyst, Operations Manager
+
+Future Scope:
+High demand as businesses invest in resilient, efficient and technology-enabled supply chains.
+
+Why Recommended:
+Recommended for students who like systems thinking and want to optimize how products get from source to customer.
+
+==================================================
+
+
+==================================================
+Specialization: Operations Management
+
+Category:
+Logistics and Supply Chain
+
+Description:
+Operations Management covers the design and control of business processes that produce goods or services, focusing on efficiency, quality and resource management.
+
+Interests:
+operations, management, efficiency, planning, quality control, processes
+
+Preferred School Subjects:
+Any stream; Mathematics and Business Studies where available.
+
+Skills Needed:
+Process Analysis, Planning, Leadership, Problem Solving, Data Analysis
+
+Prerequisites:
+10+2 qualification in any stream for a bachelor's degree.
+
+Entrance Exams:
+University-specific entrance examinations; some institutions admit based on merit.
+
+Duration:
+Typically 3 years for a bachelor's degree, or 2 years for a specialized master's program.
+
+Career Options:
+Operations Manager, Process Improvement Analyst, Production Planner, Quality Manager
+
+Future Scope:
+Consistent demand across manufacturing, retail and service industries seeking operational efficiency.
+
+Why Recommended:
+Recommended for students who enjoy improving how things work and ensuring organizations run smoothly.
+
+==================================================
