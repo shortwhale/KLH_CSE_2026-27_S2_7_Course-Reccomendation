@@ -1,0 +1,124 @@
+CAREER RECOMMENDATION CORPUS
+
+This corpus contains genetics and genomics specializations for a career recommendation system.
+
+#########################
+CATEGORY: Genetics and Genomics
+#########################
+
+
+==================================================
+Specialization: Genetics
+
+Category:
+Genetics and Genomics
+
+Description:
+Genetics studies heredity and variation in living organisms, examining how genes are passed on and how they influence traits, diseases and development.
+
+Interests:
+genetics, biology, heredity, dna, research, laboratory, science
+
+Preferred School Subjects:
+Biology and Chemistry.
+
+Skills Needed:
+Laboratory Techniques, Research, Analytical Thinking, Biology Knowledge, Attention to Detail
+
+Prerequisites:
+10+2 qualification with Biology and Chemistry is required.
+
+Entrance Exams:
+University-specific entrance examinations or national science entrance tests for related bachelor's programs.
+
+Duration:
+Typically 3 years for a bachelor's degree in Genetics or Biological Sciences.
+
+Career Options:
+Geneticist, Genetic Counselor, Research Scientist, Laboratory Technician
+
+Future Scope:
+Growing opportunities in personalized medicine, genetic testing and biomedical research.
+
+Why Recommended:
+Recommended for students fascinated by heredity, DNA and how genes shape traits and disease.
+
+==================================================
+
+
+==================================================
+Specialization: Genomics and Bioinformatics
+
+Category:
+Genetics and Genomics
+
+Description:
+Genomics and Bioinformatics combines biology with computational methods to analyze large-scale genetic data, supporting research in medicine, agriculture and evolutionary biology.
+
+Interests:
+genomics, bioinformatics, biology, data analysis, programming, research
+
+Preferred School Subjects:
+Biology, Chemistry and Mathematics.
+
+Skills Needed:
+Programming, Data Analysis, Biology Knowledge, Statistics, Problem Solving
+
+Prerequisites:
+10+2 qualification with Biology and Mathematics is often preferred.
+
+Entrance Exams:
+University-specific entrance examinations for related bachelor's or master's programs.
+
+Duration:
+Typically 3 years for a bachelor's degree, or 2 years for a specialized master's program in Bioinformatics.
+
+Career Options:
+Bioinformatics Analyst, Genomics Researcher, Computational Biologist, Data Scientist in Life Sciences
+
+Future Scope:
+Rapidly growing field as genomic data and personalized medicine expand across healthcare and research.
+
+Why Recommended:
+Recommended for students who enjoy both biology and computing and want to analyze genetic data at scale.
+
+==================================================
+
+
+==================================================
+Specialization: Molecular Biology
+
+Category:
+Genetics and Genomics
+
+Description:
+Molecular Biology studies biological processes at the molecular level, including gene expression, protein synthesis and cellular mechanisms, forming the foundation for many areas of biomedical research.
+
+Interests:
+molecular biology, biology, cells, research, laboratory, science
+
+Preferred School Subjects:
+Biology and Chemistry.
+
+Skills Needed:
+Laboratory Techniques, Research, Analytical Thinking, Biology Knowledge, Precision
+
+Prerequisites:
+10+2 qualification with Biology and Chemistry is required.
+
+Entrance Exams:
+University-specific entrance examinations or national science entrance tests for related bachelor's programs.
+
+Duration:
+Typically 3 years for a bachelor's degree in Molecular Biology or Life Sciences.
+
+Career Options:
+Molecular Biologist, Research Scientist, Laboratory Manager, Biomedical Researcher
+
+Future Scope:
+Strong demand in pharmaceutical research, biotechnology companies and academic research institutions.
+
+Why Recommended:
+Recommended for students interested in understanding life at the cellular and molecular level through laboratory research.
+
+==================================================
